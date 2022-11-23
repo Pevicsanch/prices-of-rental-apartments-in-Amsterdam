@@ -1,0 +1,731 @@
+url,title,postal_code,neighborhood,price,area,interior,rooms,year_const
+https://www.pararius.com/apartment-for-rent/amsterdam/0a20f4da/jan-willem-brouwersstraat,Apartment Jan Willem Brouwersstraat,1071 LK Amsterdam ,Museumkwartier,4200,130 ,Unknown,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/848533c9/ceintuurbaan,Apartment Ceintuurbaan,1072 EW Amsterdam ,Oude Pijp,2750,79 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7210648d/van-eeghenstraat,Apartment Van Eeghenstraat,1071 EZ Amsterdam ,Museumkwartier,2800,81 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/83d81c14/van-eeghenstraat,Apartment Van Eeghenstraat,1071 EZ Amsterdam ,Museumkwartier,2650,81 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/197ab132/paardekraalstraat,Apartment Paardekraalstraat,1092 JB Amsterdam ,Transvaalbuurt,2150,71 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/661de12c/grensstraat,Apartment Grensstraat,1091 SW Amsterdam ,Weesperzijde,2150,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6748003e/albert-cuypstraat,Apartment Albert Cuypstraat,1073 BG Amsterdam ,Oude Pijp,2150,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ed3bd367/panamakade,Apartment Panamakade,1019 AX Amsterdam ,Oostelijk Havengebied,2250,140 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/611f1715/dickenslaan,Apartment Dickenslaan 186,1102 ZX Amsterdam ,Bijlmer Centrum,1550,50 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e81ea2ae/herengracht,Apartment Herengracht,1017 BP Amsterdam ,Grachtengordel-Zuid,2850,83 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/19d13bd9/surinameplein,Apartment Surinameplein,1058 GH Amsterdam ,Hoofddorppleinbuurt,2200,80 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4a6e02f3/des-presstraat,Apartment Des Présstraat,1075 NZ Amsterdam ,Willemspark,2850,92 ,Unknown,4 ,1926
+https://www.pararius.com/apartment-for-rent/amsterdam/03599ba2/koninginneweg,Apartment Koninginneweg 175 H,1075 CP Amsterdam ,Willemspark,5500,149 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/758f404b/kaasjeskruidstraat,Apartment Kaasjeskruidstraat 26,1032 LS Amsterdam ,Noordelijke IJ-oevers West,2250,25 ,Upholstered or furnished,1 room,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/7ca13e85/haarlemmerweg,House Haarlemmerweg,1051 KX Amsterdam ,Staatsliedenbuurt,1850,55 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6992d53b/nieuwegrachtje,Apartment Nieuwegrachtje 3 2,1011 VP Amsterdam ,Nieuwmarkt/Lastage,2850,87 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c191d10c/gerard-doustraat,Apartment Gerard Doustraat,1073 XD Amsterdam ,Oude Pijp,1850,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1bc91328/prinsengracht,Apartment Prinsengracht 693 C,1017 JV Amsterdam ,Grachtengordel-Zuid,2300,70 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f8fecee8/kloveniersburgwal,Apartment Kloveniersburgwal,1011 JT Amsterdam ,Nieuwmarkt/Lastage,1800,44 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a47756fe/korte-ouderkerkerdijk,Apartment Korte Ouderkerkerdijk,1096 AC Amsterdam ,Omval/Overamstel,8000,191 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/11796065/stadionweg,Apartment Stadionweg 318 III,1076 PK Amsterdam ,Stadionbuurt,2500,100 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ed4bdd90/willem-de-zwijgerlaan,Apartment Willem de Zwijgerlaan,1055 RB Amsterdam ,Landlust,1500,51 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/b481cb04/baanbrugsteeg,House Baanbrugsteeg 1 a,1013 HM Amsterdam ,Haarlemmerbuurt,3950,130 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bd4c5858/nicolaas-maesstraat,Apartment Nicolaas Maesstraat,1071 PR Amsterdam ,Museumkwartier,6000,151 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cf355f6e/groenmarktkade,Apartment Groenmarktkade,1016 TA Amsterdam ,Jordaan,2150,66 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f34dc831/zieseniskade,Apartment Zieseniskade 13 A,1017 RS Amsterdam ,De Weteringschans,2900,67 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/816933eb/nassaukade,Apartment Nassaukade,1053 LM Amsterdam ,Da Costabuurt,2600,93 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a0fe0f8f/kratontuin,Apartment Kratontuin,1019 SL Amsterdam ,Oostelijk Havengebied,2500,81 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c02e1898/zuider-ijdijk,Apartment Zuider IJdijk 1209,1095 KN Amsterdam ,Zeeburgereiland/Nieuwe Diep,1400,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1f07a7f8/gustav-mahlerlaan,Apartment Gustav Mahlerlaan 853,1082 MK Amsterdam ,Zuidas,1958,94 ,Upholstered,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/f29ea9bb/johannes-verhulststraat,House Johannes Verhulststraat 151 h,1075 GW Amsterdam ,Willemspark,11000,255 ,Upholstered,10 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/a2f6d20f/erich-salomonstraat,House Erich Salomonstraat,1087 JA Amsterdam ,IJburg West,2850,158 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/65207361/noorderkerkstraat,Apartment Noorderkerkstraat 7 hs,1015 NB Amsterdam ,Jordaan,2100,85 ,Furnished,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/8f2d6344/q-residences-quartz/appartement-h-b-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–B LUXE,1081 AB Amsterdam ,Buitenveldert-West,1350,49 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/7071b616/q-residences-quartz/appartement-h-d-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–D LUXE,1081 AB Amsterdam ,Buitenveldert-West,1350,49 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/3934087d/q-residences-quartz/appartement-h-g-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–G LUXE,1081 AB Amsterdam ,Buitenveldert-West,1900 - 1925,74 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/f41df752/q-residences-quartz/appartement-h-i-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–I’ LUXE,1081 AB Amsterdam ,Buitenveldert-West,2790 - 2850,107 ,Unknown,4 ,Unknown
+https://www.pararius.com/en/project/amsterdam/12a7f2ab/q-residences-quartz/appartement-h-g-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–G’ LUXE,1081 AB Amsterdam ,Buitenveldert-West,1900 - 1925,74 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/ab368de5/q-residences-quartz/appartement-h-a-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–A’ LUXE,1081 AB Amsterdam ,Buitenveldert-West,1650 - 1675,68 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/27b99716/q-residences-quartz/appartement-h-d-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–D’ LUXE,1081 AB Amsterdam ,Buitenveldert-West,1350,49 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/ef99c041/q-residences-quartz/appartement-h-a-luxe,Project: Q-Residences | Quartz - APPARTEMENT H-A LUXE,1081 AB Amsterdam ,Buitenveldert-West,1650 - 1675,68 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/39d23d70/q-residences-quartz/appartement-h-e-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–E LUXE,1081 AB Amsterdam ,Buitenveldert-West,1550 - 1675,61 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/ca447725/q-residences-quartz/appartement-h-j-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–J LUXE,1081 AB Amsterdam ,Buitenveldert-West,1575 - 1650,62 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/11672470/q-residences-quartz/appartement-h-f-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–F LUXE,1081 AB Amsterdam ,Buitenveldert-West,1950 - 2000,77 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/263d5985/q-residences-quartz/appartement-h-i-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–I LUXE,1081 AB Amsterdam ,Buitenveldert-West,2790 - 2850,107 ,Unknown,4 ,Unknown
+https://www.pararius.com/en/project/amsterdam/c483d640/q-residences-quartz/appartement-h-f-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–F’ LUXE,1081 AB Amsterdam ,Buitenveldert-West,1950 - 2000,77 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/d13ca9c4/q-residences-quartz/appartement-h-h-luxe,Project: Q-Residences | Quartz - APPARTEMENT H–H LUXE,1081 AB Amsterdam ,Buitenveldert-West,1575 - 1700,64 ,Unknown,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/30494138/keizersgracht,Apartment Keizersgracht,1017 EB Amsterdam ,Grachtengordel-Zuid,2275,47 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/5adb8003/korenbloemstraat,House Korenbloemstraat,1032 GV Amsterdam ,Volewijck,2000,75 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/265d1ec0/raoul-wallenbergstraat,Apartment Raoul Wallenbergstraat 127,1102 AX Amsterdam ,Bijlmer Centrum,1825,96 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aaa0e196/leidsegracht,Apartment Leidsegracht 17 D,1017 NA Amsterdam ,Grachtengordel-Zuid,2100,64 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e108422f/schollenbrugstraat,Apartment Schollenbrugstraat,1091 GB Amsterdam ,Weesperzijde,3750,120 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a7190d85/wibautstraat,Apartment Wibautstraat,1091 GS Amsterdam ,Weesperzijde,2295,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/daeaa791/van-nijenrodeweg,Apartment Van Nijenrodeweg,1082 HH Amsterdam ,Buitenveldert-West,1450,35 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e50edf84/wolbrantskerkweg,Apartment Wolbrantskerkweg,1069 DA Amsterdam ,Osdorp-Midden,2495,132 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/69c52703/courbetstraat,Apartment Courbetstraat 11 1,1077 ZP Amsterdam ,Apollobuurt,2600,79 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3fd85e04/madurastraat,Apartment Madurastraat 16 H,1094 GL Amsterdam ,Indische Buurt West,2575,65 ,Unknown,3 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/2fa547d2/de-lierhof,Apartment De Lierhof 72,1059 WE Amsterdam ,Westlandgracht,2450,116 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ac176a82/wiborgeiland,Apartment Wiborgeiland,1014 ZC Amsterdam ,Houthavens,6500,169 ,Unknown,6 ,2011-2020
+https://www.pararius.com/apartment-for-rent/amsterdam/b7a3753e/rozengracht,Apartment Rozengracht 243 HS,1016 SX Amsterdam ,Jordaan,3000,142 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3bd27bc2/reinwardtstraat,Apartment Reinwardtstraat,1093 GT Amsterdam ,Dapperbuurt,1475,48 ,Unknown,2 ,1987
+https://www.pararius.com/apartment-for-rent/amsterdam/9acc6db7/westerstraat,Apartment Westerstraat 121 2,1015 LZ Amsterdam ,Jordaan,2400,74 ,Unknown,2 ,1864
+https://www.pararius.com/apartment-for-rent/amsterdam/379585cd/herengracht,Apartment Herengracht 455 C,1017 BS Amsterdam ,Grachtengordel-Zuid,2750,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/885ce19f/edisonstraat,Apartment Edisonstraat,1098 TA Amsterdam ,Middenmeer,2000,81 ,Unknown,3 ,1945-1959
+https://www.pararius.com/apartment-for-rent/amsterdam/e6b6d47b/plantage-kerklaan,Apartment Plantage Kerklaan 22 II,1018 TB Amsterdam ,Weesperbuurt/Plantage,1975,65 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e39be3bd/lia-doranastraat,Apartment Lia Doranastraat 53,1031 HK Amsterdam ,Noordelijke IJ-oevers West,2108,124 ,Unknown,3 ,2020
+https://www.pararius.com/apartment-for-rent/amsterdam/d9e772df/mr-p-n-arntzeniusweg,Apartment Mr. P.N. Arntzeniusweg 41 huis,1098 GL Amsterdam ,Middenmeer,2200,92 ,Unknown,3 ,1929
+https://www.pararius.com/apartment-for-rent/amsterdam/048aaeec/admiralengracht,Apartment Admiralengracht,1056 EB Amsterdam ,Van Galenbuurt,2350,64 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/de29fc4d/czaar-peterstraat,Apartment Czaar Peterstraat,1018 PR Amsterdam ,Oostelijke Eilanden/Kadijken,1850,58 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7fb6a32b/wilhelminastraat,Apartment Wilhelminastraat 29 1,1054 VV Amsterdam ,Helmersbuurt,1800,52 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/584a3bec/mercatorplein,Apartment Mercatorplein,1056 CL Amsterdam ,Van Galenbuurt,1900,85 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2064eedc/president-kennedylaan,Apartment President Kennedylaan,1079 NJ Amsterdam ,Rijnbuurt,2750,111 ,Upholstered or furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d7cca1f1/groenburgwal,Apartment Groenburgwal 35 A,1011 HS Amsterdam ,Nieuwmarkt/Lastage,2450,70 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ae505ca7/herengracht,Apartment Herengracht 289 E,1016 BL Amsterdam ,Grachtengordel-West,1750,75 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b87f49b1/eerste-passeerdersdwarsstraat,Apartment Eerste Passeerdersdwarsstraat 76,1016 XD Amsterdam ,Jordaan,1850,70 ,Upholstered,2 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/b9baa2b3/john-m-keynesplein,Studio John M. Keynesplein 2,1066 EP Amsterdam ,Sloter-/Riekerpolder,1545,23 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c3e73069/buitendraaierij,Apartment Buitendraaierij 10,1021 NN Amsterdam ,IJplein/Vogelbuurt,1550,46 ,Furnished,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/2d3fa307/the-hub-apartments/the-hub-apartments-type-t2,Project: The Hub Apartments - The Hub Apartments | Type T2,1068 TD Amsterdam ,Osdorp-Oost,1530 - 1650,59 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/942e4583/the-hub-apartments/the-hub-apartments-type-t7,Project: The Hub Apartments - The Hub Apartments | Type T7,1068 TD Amsterdam ,Osdorp-Oost,2045,75 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/79680d68/the-hub-apartments/the-hub-apartments-type-t1,Project: The Hub Apartments - The Hub Apartments | Type T1,1068 TD Amsterdam ,Osdorp-Oost,1530 - 1650,58 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/bb46b555/the-hub-apartments/the-hub-apartments-type-t5,Project: The Hub Apartments - The Hub Apartments | Type T5,1068 TD Amsterdam ,Osdorp-Oost,1540 - 1550,58 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/8fda20c9/the-hub-apartments/the-hub-apartments-type-t6,Project: The Hub Apartments - The Hub Apartments | Type T6,1068 TD Amsterdam ,Osdorp-Oost,1540 - 1550,59 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/37f32890/the-hub-apartments/the-hub-apartments-type-t8,Project: The Hub Apartments - The Hub Apartments | Type T8,1068 TD Amsterdam ,Osdorp-Oost,1825 - 1860,64 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/222470b4/the-hub-apartments/the-hub-apartments-type-t10,Project: The Hub Apartments - The Hub Apartments | Type T10,1068 TD Amsterdam ,Osdorp-Oost,1320 - 1350,47 ,Unknown,2 ,Unknown
+https://www.pararius.com/en/project/amsterdam/0e29ac52/the-hub-apartments/the-hub-apartments-type-t3,Project: The Hub Apartments - The Hub Apartments | Type T3,1068 TD Amsterdam ,Osdorp-Oost,1770 - 1830,63 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/c525e16d/the-hub-apartments/the-hub-apartments-type-t4,Project: The Hub Apartments - The Hub Apartments | Type T4,1068 TD Amsterdam ,Osdorp-Oost,1795 - 1805,63 ,Unknown,3 ,Unknown
+https://www.pararius.com/en/project/amsterdam/19f38226/the-hub-apartments/the-hub-apartments-type-t9,Project: The Hub Apartments - The Hub Apartments | Type T9,1068 TD Amsterdam ,Osdorp-Oost,1380 - 1415,52 ,Unknown,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b8fb2e2a/vasco-da-gamastraat,Apartment Vasco da Gamastraat,1057 VM Amsterdam ,Hoofdweg e.o.,1645,52 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9edb997d/goudsbloemstraat,Apartment Goudsbloemstraat,1015 JN Amsterdam ,Jordaan,1700,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bb9748a3/javaplein,Apartment Javaplein 13 III,1095 CH Amsterdam ,Indische Buurt Oost,1750,65 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cdb69191/ennemaborg,Apartment Ennemaborg,1082 ST Amsterdam ,Buitenveldert-West,1800,100 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ec59882d/kerkstraat,Apartment Kerkstraat,1017 HW Amsterdam ,Grachtengordel-Zuid,4500,120 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/04c47969/ijdoornlaan,Apartment IJdoornlaan 1445 F,1034 BM Amsterdam ,Banne Buiksloot,1750,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1ba5ca5a/bosboom-toussaintstraat,Apartment Bosboom Toussaintstraat,1054 AT Amsterdam ,Helmersbuurt,1700,65 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f7857639/nicolaas-maesstraat,Apartment Nicolaas Maesstraat 82 bov,1071 RD Amsterdam ,Museumkwartier,4250,212 ,Unknown,8 ,1906-1930
+https://www.pararius.com/apartment-for-rent/amsterdam/fc8a49ae/thorn-prikkerstraat,Apartment Thorn Prikkerstraat 71,1062 BS Amsterdam ,Overtoomse Veld,2800,113 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d767a49d/albert-cuypstraat,Apartment Albert Cuypstraat,1073 BG Amsterdam ,Oude Pijp,1950,40 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3dac8d32/van-woustraat,Apartment Van Woustraat,1074 AB Amsterdam ,Oude Pijp,2050,49 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5e0a0d60/weteringschans,Apartment Weteringschans 143 1,1017 SE Amsterdam ,De Weteringschans,1950,55 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/56edc76d/weteringschans,Apartment Weteringschans 143 3,1017 SE Amsterdam ,De Weteringschans,2800,80 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ce456495/weteringschans,Apartment Weteringschans 143 2,1017 SE Amsterdam ,De Weteringschans,1900,55 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7974b083/argonautenstraat,Apartment Argonautenstraat,1076 KS Amsterdam ,Stadionbuurt,2250,65 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aa795508/rozengracht,Apartment Rozengracht,1016 ND Amsterdam ,Jordaan,2100,77 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c2f725a3/ijdok,Apartment IJdok 103,1013 MM Amsterdam ,Haarlemmerbuurt,3250,140 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fd5c93b3/willem-heselaarsstraat,Apartment Willem Heselaarsstraat 48,1069 KA Amsterdam ,Osdorp-Midden,2000,90 ,Unknown,3 ,2006
+https://www.pararius.com/apartment-for-rent/amsterdam/de4de83d/voordek,Apartment Voordek 15,1034 SR Amsterdam ,Banne Buiksloot,1650,76 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/de61ace9/henri-polaklaan,Apartment Henri Polaklaan 9 A1,1018 CP Amsterdam ,Weesperbuurt/Plantage,2150,85 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d581f80f/ruyschstraat,Apartment Ruyschstraat,1091 MR Amsterdam ,Oosterparkbuurt,2100,55 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bdcfb487/reguliersbreestraat,Apartment Reguliersbreestraat,1017 CN Amsterdam ,Grachtengordel-Zuid,2000,56 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d9bab8e9/prinsengracht,Apartment Prinsengracht 657 D,1016 HV Amsterdam ,Grachtengordel-West,1600,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7ab0bca5/ecuplein,Apartment Ecuplein,1060 RN Amsterdam ,Middelveldsche Akerpolder,1800,90 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/708bbf92/marskramerstraat,Apartment Marskramerstraat 128,1033 WG Amsterdam ,Oostzanerwerf,3000,189 ,Furnished,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7d5f8b8a/prinsengracht,Apartment Prinsengracht,1015 DX Amsterdam ,Jordaan,2100,53 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/697c2a27/haarlemmermeerstraat,Apartment Haarlemmermeerstraat 39,1058 JN Amsterdam ,Hoofddorppleinbuurt,1800,68 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/72d93de1/osdorpplein,Apartment Osdorpplein 957 1,1068 TB Amsterdam ,Osdorp-Oost,1750,70 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/becf7fb6/westermarkt,Apartment Westermarkt,1016 DJ Amsterdam ,Grachtengordel-West,2750,85 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6ac6c499/henkenshage,Apartment Henkenshage 11,1083 BX Amsterdam ,Buitenveldert-Oost,1950,85 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/034925d1/rapenburg,Apartment Rapenburg,1011 TX Amsterdam ,Nieuwmarkt/Lastage,4500,125 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f431732c/admiraal-de-ruijterweg,Apartment Admiraal De Ruijterweg,1055 MB Amsterdam ,Landlust,2700,75 ,Unknown,4 ,1925
+https://www.pararius.com/apartment-for-rent/amsterdam/7e56a064/ceintuurbaan,Apartment Ceintuurbaan,1072 GH Amsterdam ,Nieuwe Pijp,2550,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/76610c2b/de-lairessestraat,Apartment De Lairessestraat,1071 PL Amsterdam ,Museumkwartier,2300,79 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0879ea3b/rapenburgerplein,Apartment Rapenburgerplein,1011 VB Amsterdam ,Nieuwmarkt/Lastage,2495,75 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2be47ffb/jan-van-goyenkade,Apartment Jan van Goyenkade 27 1,1075 HS Amsterdam ,Willemspark,6250,270 ,Unknown,8 ,1906-1930
+https://www.pararius.com/apartment-for-rent/amsterdam/e68675f9/gerard-brandtstraat,Apartment Gerard Brandtstraat,1054 JK Amsterdam ,Vondelbuurt,1950,40 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e2445374/hogewerf,Apartment Hogewerf,1082 NG Amsterdam ,Buitenveldert-Oost,2250,85 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a8f24252/tesselschadestraat,Apartment Tesselschadestraat,1054 ET Amsterdam ,Vondelbuurt,2650,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e4217ac7/buitendraaierij,Apartment Buitendraaierij,1021 NN Amsterdam ,IJplein/Vogelbuurt,1750,56 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/41beb035/alexanderkade,Apartment Alexanderkade,1018 CK Amsterdam ,Weesperbuurt/Plantage,1750,60 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/55662c0a/prinsengracht,Apartment Prinsengracht 844 2,1017 JM Amsterdam ,De Weteringschans,2550,120 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/41bd0297/maasstraat,Apartment Maasstraat,1079 BE Amsterdam ,Scheldebuurt,2300,88 ,Unknown,4 ,1933
+https://www.pararius.com/apartment-for-rent/amsterdam/52841ece/eosstraat,Apartment Eosstraat,1076 DT Amsterdam ,Stadionbuurt,2050,99 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fc7d7573/ceintuurbaan,Apartment Ceintuurbaan 257 1,1074 CZ Amsterdam ,Oude Pijp,2100,50 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/051c5675/ijburglaan,Apartment IJburglaan,1087 CL Amsterdam ,IJburg West,1995,115 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/98ed4b38/eef-kamerbeekstraat,Apartment Eef Kamerbeekstraat,1095 MP Amsterdam ,Zeeburgereiland/Nieuwe Diep,1725,65 ,Shell,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/21f30d67/cornelis-schuytstraat,Apartment Cornelis Schuytstraat 8 1,1071 JH Amsterdam ,Museumkwartier,2800,65 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9a831fe8/tweede-laurierdwarsstraat,Apartment Tweede Laurierdwarsstraat 56,1016 RC Amsterdam ,Jordaan,2950,111 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/66ce2c63/nieuwe-spiegelstraat,Apartment Nieuwe Spiegelstraat,1017 DD Amsterdam ,Grachtengordel-Zuid,1750,52 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3436c0ea/bloemgracht,Apartment Bloemgracht,1016 KG Amsterdam ,Jordaan,3250,120 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c27348aa/jan-van-zutphenstraat,Apartment Jan van Zutphenstraat,1069 RS Amsterdam ,Osdorp-Midden,2350,117 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d65d4401/prinsengracht,Apartment Prinsengracht 197 C,1015 DT Amsterdam ,Grachtengordel-West,2500,70 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/10d61bcc/bosrankstraat,Apartment Bosrankstraat,1032 LH Amsterdam ,Noordelijke IJ-oevers West,2250,110 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2b556d82/bronckhorststraat,Apartment Bronckhorststraat 32 1,1071 WS Amsterdam ,Museumkwartier,2100,83 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/436af837/hemonystraat,Apartment Hemonystraat 32 C,1074 BR Amsterdam ,Oude Pijp,1800,90 ,Upholstered,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/aff893d9/ligusterhof,House Ligusterhof,1087 SK Amsterdam ,IJburg Zuid,5500,230 ,Furnished,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0c4948bd/barkasstraat,Apartment Barkasstraat,1086 VJ Amsterdam ,IJburg West,2450,79 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/18b75c78/argonautenstraat,Apartment Argonautenstraat,1076 KK Amsterdam ,Stadionbuurt,2100,80 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c4e213aa/van-heenvlietlaan,Apartment Van Heenvlietlaan 182,1083 CM Amsterdam ,Buitenveldert-Oost,2600,117 ,Unknown,4 ,1960
+https://www.pararius.com/apartment-for-rent/amsterdam/4f4b88d9/nieuwe-spiegelstraat,Apartment Nieuwe Spiegelstraat 20 B,1017 DE Amsterdam ,Grachtengordel-Zuid,2500,90 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6cb5fad6/de-lairessestraat,Apartment De Lairessestraat 120 II,1071 PL Amsterdam ,Museumkwartier,3900,104 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/145580c9/laing-s-nekstraat,Apartment Laing's Nekstraat,1092 GS Amsterdam ,Transvaalbuurt,2700,83 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d839fa3b/eerste-schinkelstraat,Apartment Eerste Schinkelstraat,1075 TX Amsterdam ,Schinkelbuurt,1575,55 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/690aff51/brouwersgracht,House Brouwersgracht,1015 GD Amsterdam ,Jordaan,1950,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7885507f/willem-de-zwijgerlaan,Apartment Willem de Zwijgerlaan 112 I,1056 JV Amsterdam ,Geuzenbuurt,2000,55 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/83f0519b/hof-van-groenen,Apartment Hof van Groenen 17,1083 JR Amsterdam ,Buitenveldert-Oost,2350,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ce634c80/herengracht,Apartment Herengracht,1016 BE Amsterdam ,Grachtengordel-West,3750,110 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a9f0ea3b/leimuidenstraat,Apartment Leimuidenstraat,1059 EE Amsterdam ,Hoofddorppleinbuurt,2500,130 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/84b975a8/borneolaan,Apartment Borneolaan 362,1019 KL Amsterdam ,Oostelijk Havengebied,1700,59 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6bf355ba/bijlmerdreef,Apartment Bijlmerdreef 973,1103 TW Amsterdam ,Bijlmer Oost,1650,84 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/92b341ee/weesperzijde,Apartment Weesperzijde 42 A-2,1091 EE Amsterdam ,Weesperzijde,2250,59 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/284f7761/wethouder-frankeweg,Apartment Wethouder Frankeweg 32 1,1098 LB Amsterdam ,Middenmeer,1625,75 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d5578c69/adelaarsweg,Apartment Adelaarsweg,1021 BP Amsterdam ,IJplein/Vogelbuurt,2200,90 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aa48a5a8/raadhuisstraat,Apartment Raadhuisstraat 44 C,1016 DG Amsterdam ,Grachtengordel-West,2700,90 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9ea5580e/spiegelgracht,Apartment Spiegelgracht 21 4,1017 JP Amsterdam ,De Weteringschans,2750,76 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6758e0a0/korte-tolstraat,Apartment Korte Tolstraat 5 2,1073 SG Amsterdam ,Nieuwe Pijp,1800,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/baaf9188/hogevecht,Apartment Hogevecht,1102 HE Amsterdam ,Bijlmer Centrum,1850,90 ,Unknown,4 ,1970
+https://www.pararius.com/apartment-for-rent/amsterdam/9da19350/govert-flinckstraat,Apartment Govert Flinckstraat 122 1,1072 EM Amsterdam ,Oude Pijp,2100,70 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/500f55df/klaroenstraat,Apartment Klaroenstraat,1104 HW Amsterdam ,Bijlmer Oost,1700,80 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8772f8c7/carolina-macgillavrylaan,Apartment Carolina MacGillavrylaan 210,1098 XA Amsterdam ,Middenmeer,2450,137 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d8cf035f/carolina-macgillavrylaan,Apartment Carolina MacGillavrylaan 216,1098 XA Amsterdam ,Middenmeer,2400,106 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e8c6a1da/hazenstraat,Apartment Hazenstraat 29 1,1016 SM Amsterdam ,Jordaan,2600,90 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2351bf9c/ringdijk,Apartment Ringdijk,1097 AB Amsterdam ,Frankendael,2250,90 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5219b1eb/warmoesstraat,Apartment Warmoesstraat,1012 HX Amsterdam ,Burgwallen-Oude Zijde,2350,80 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7e59b1de/roetersstraat,Apartment Roetersstraat 2 E,1018 WC Amsterdam ,Weesperbuurt/Plantage,2250,55 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/04776801/krommertstraat,Apartment Krommertstraat,1056 TS Amsterdam ,Geuzenbuurt,2650,131 ,Furnished,5 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/02d81ad9/randwijkhof,House Randwijkhof,1106 JZ Amsterdam ,Holendrecht/Reigersbos,1950,94 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c6d1f5bf/churchill-laan,Apartment Churchill-laan 143 hs,1078 DS Amsterdam ,Scheldebuurt,2950,110 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bee58f3e/buiten-vissersstraat,Apartment Buiten Vissersstraat,1013 GB Amsterdam ,Haarlemmerbuurt,2650,52 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4407e193/pieter-cornelisz-hooftstraat,Apartment Pieter Cornelisz. Hooftstraat,1071 CA Amsterdam ,Museumkwartier,2750,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b914b64e/emmalaan,Apartment Emmalaan,1075 AT Amsterdam ,Willemspark,3250,90 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c801a4a4/van-suchtelen-van-de-haarestraat,Apartment Van Suchtelen van de Haarestraat 26 D,1068 GV Amsterdam ,Osdorp-Oost,2450,101 ,Upholstered or furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fbc8efd3/wijnsilostraat,Apartment Wijnsilostraat,1019 VM Amsterdam ,Oostelijk Havengebied,2100,63 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/99080727/lauriergracht,Apartment Lauriergracht 45 B,1016 RG Amsterdam ,Jordaan,3000,99 ,Unknown,3 ,1906
+https://www.pararius.com/apartment-for-rent/amsterdam/5c8723f2/westerdok,Apartment Westerdok,1013 BH Amsterdam ,Haarlemmerbuurt,1850,58 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ae50159d/amstel,Apartment Amstel,1017 AA Amsterdam ,Grachtengordel-Zuid,2750,110 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e19c89a6/cornelis-troostplein,Apartment Cornelis Troostplein,1072 JK Amsterdam ,Nieuwe Pijp,1900,59 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6e292cfd/hagedoornweg,Apartment Hagedoornweg,1031 BT Amsterdam ,Volewijck,1750,30 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/303dcb34/valeriusplein,Apartment Valeriusplein 28 2,1075 BH Amsterdam ,Willemspark,3000,76 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cf0df000/agamemnonstraat,Apartment Agamemnonstraat 15 2,1076 LN Amsterdam ,Stadionbuurt,3250,90 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/11817b40/jacob-van-lennepstraat,Apartment Jacob van Lennepstraat 257,1053 JE Amsterdam ,Van Lennepbuurt,1900,52 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0e52b665/warmondstraat,Apartment Warmondstraat 189 III,1058 KX Amsterdam ,Hoofddorppleinbuurt,2350,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a7d2030a/christiaan-de-wetstraat,Apartment Christiaan de Wetstraat,1091 NG Amsterdam ,Transvaalbuurt,1950,50 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6d838b04/van-nijenrodeweg,Apartment Van Nijenrodeweg,1082 JE Amsterdam ,Buitenveldert-West,1950,36 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/24c912bc/keizersgracht,House Keizersgracht,1017 DT Amsterdam ,Grachtengordel-Zuid,5250,252 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/12c2b6e4/keizersgracht,Apartment Keizersgracht,1017 EW Amsterdam ,Grachtengordel-Zuid,3200,108 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3ffd63d5/maria-austriastraat,Apartment Maria Austriastraat,1087 JC Amsterdam ,IJburg West,1950,39 ,Upholstered or furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f3726e57/van-tuyll-van-serooskerkenweg,Apartment Van Tuyll van Serooskerkenweg,1076 JG Amsterdam ,Stadionbuurt,3375,115 ,Upholstered,5 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/3652016d/emmy-andriessestraat,House Emmy Andriessestraat,1087 LS Amsterdam ,IJburg Zuid,2795,150 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f565af77/tweede-oosterparkstraat,Apartment Tweede Oosterparkstraat,1091 HT Amsterdam ,Oosterparkbuurt,1195,35 ,Upholstered or furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/368fa02d/frieslandstraat,Apartment Frieslandstraat,1082 TL Amsterdam ,Buitenveldert-West,1850,75 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fcc6107e/weesperzijde,Apartment Weesperzijde,1091 ED Amsterdam ,Weesperzijde,3000,130 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4f113b1a/binnenkant,Apartment Binnenkant,1011 BK Amsterdam ,Nieuwmarkt/Lastage,2150,64 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f7d3a3bf/prinsengracht,Apartment Prinsengracht 801 II,1017 KA Amsterdam ,Grachtengordel-Zuid,1850,48 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/713cd7dc/lauriergracht,Apartment Lauriergracht,1016 RP Amsterdam ,Jordaan,2400,83 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/190f6033/eerste-boerhaavestraat,Apartment Eerste Boerhaavestraat 6 D,1091 SB Amsterdam ,Weesperzijde,2100,85 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/58eae65f/prinseneiland,Apartment Prinseneiland,1013 LL Amsterdam ,Haarlemmerbuurt,2500,69 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b533f71b/graaf-florisstraat,Apartment Graaf Florisstraat,1091 TG Amsterdam ,Weesperzijde,3250,105 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1b8044f6/nieuwmarkt,Apartment Nieuwmarkt,1011 JP Amsterdam ,Nieuwmarkt/Lastage,1850,50 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bddfa848/reigersbos,Apartment Reigersbos,1107 EX Amsterdam ,Holendrecht/Reigersbos,2400,95 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ed4c6c4a/krom-boomssloot,Apartment Krom Boomssloot 63 C,1011 GS Amsterdam ,Nieuwmarkt/Lastage,2150,88 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5bb9a780/ben-van-meerendonkstraat,Apartment Ben van Meerendonkstraat 15,1087 LB Amsterdam ,IJburg Zuid,2200,86 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c1dea6d2/bestevaerstraat,Apartment Bestevâerstraat,1055 TM Amsterdam ,Landlust,1675,44 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/12f41bea/meerhuizenstraat,Apartment Meerhuizenstraat 14 N,1078 TH Amsterdam ,IJselbuurt,2300,95 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0bb9d520/ceramiquelaan,Apartment Céramiquelaan,1031 KG Amsterdam ,Noordelijke IJ-oevers West,3450,118 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5d579c9a/singel,Apartment Singel,1017 AV Amsterdam ,Grachtengordel-Zuid,2250,90 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/eb66a077/joan-melchior-kemperstraat,Apartment Joan Melchior Kemperstraat 48 C,1051 TS Amsterdam ,Staatsliedenbuurt,2400,85 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/17911e33/hoogte-kadijk,Apartment Hoogte Kadijk 54 H,1018 BN Amsterdam ,Oostelijke Eilanden/Kadijken,2750,93 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a2448c50/nieuwendijk,Apartment Nieuwendijk,1012 MP Amsterdam ,Burgwallen-Nieuwe Zijde,3000,92 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cead1fc7/wilhelminastraat,Apartment Wilhelminastraat 123 2,1054 WB Amsterdam ,Overtoomse Sluis,1850,46 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/18d0f950/uranusstraat,House Uranusstraat 23,1033 VV Amsterdam ,Tuindorp Oostzaan,1750,56 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aa7ad29e/langswater,Apartment Langswater,1069 TR Amsterdam ,De Punt,1595,58 ,Unknown,3 ,1965
+https://www.pararius.com/apartment-for-rent/amsterdam/da28f89d/cliostraat,Apartment Cliostraat 3 3,1077 KA Amsterdam ,Apollobuurt,4500,141 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/16299010/buiten-brouwersstraat,Apartment Buiten Brouwersstraat,1013 GK Amsterdam ,Haarlemmerbuurt,2400,80 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/26a12eb2/haarlemmerstraat,Apartment Haarlemmerstraat,1013 EW Amsterdam ,Haarlemmerbuurt,2950,85 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7112ce6e/amstelkade,Apartment Amstelkade 59 hs,1078 AK Amsterdam ,IJselbuurt,3500,115 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ba8e8678/bloemgracht,Apartment Bloemgracht,1016 KN Amsterdam ,Jordaan,2000,69 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/112a5c1d/nieuwe-spiegelstraat,Apartment Nieuwe Spiegelstraat 67 3,1017 DD Amsterdam ,Grachtengordel-Zuid,2600,90 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9b9ba910/zaagmolenstraat,Apartment Zaagmolenstraat,1052 HB Amsterdam ,Frederik Hendrikbuurt,2050,95 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6eb3ce28/oostenburgervoorstraat,Apartment Oostenburgervoorstraat,1018 MN Amsterdam ,Oostelijke Eilanden/Kadijken,1900,50 ,Unknown,2 ,2017
+https://www.pararius.com/apartment-for-rent/amsterdam/4087740c/herengracht,Apartment Herengracht 51 D,1015 BC Amsterdam ,Grachtengordel-West,3850,180 ,Unknown,4 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/9700103d/weteringschans,Apartment Weteringschans 213 E,1017 XG Amsterdam ,De Weteringschans,3250,130 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ff1faaa5/van-breestraat,Apartment Van Breestraat 129 Hs,1071 ZL Amsterdam ,Museumkwartier,6500,188 ,Upholstered,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9cf894a5/naritaweg,Apartment Naritaweg,1043 CB Amsterdam ,Bedrijventerrein Sloterdijk,1840,87 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/dc9a19df/naritaweg,Apartment Naritaweg,1043 CB Amsterdam ,Bedrijventerrein Sloterdijk,1780,77 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/29aebe6e/cornelis-anthoniszstraat,Apartment Cornelis Anthoniszstraat,1071 VX Amsterdam ,Museumkwartier,2850,100 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bf8ac65d/tweede-constantijn-huygensstraat,Apartment Tweede Constantijn Huygensstraat 44 A,1054 CV Amsterdam ,Helmersbuurt,6500,151 ,Furnished,5 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/5391b65d/vrijheidslaan,House Vrijheidslaan 5 H,1079 KA Amsterdam ,Rijnbuurt,2950,170 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/14dda07d/peelstraat,Apartment Peelstraat 60,1079 RN Amsterdam ,Scheldebuurt,1350,60 ,Unknown,2 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/341e2215/reestraat,Studio Reestraat 11 1,1016 DM Amsterdam ,Grachtengordel-West,1450,30 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a049e2bd/naritaweg,Apartment Naritaweg,1043 CB Amsterdam ,Bedrijventerrein Sloterdijk,1400,61 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/55b99be2/sloterkade,Apartment Sloterkade 165 E,1059 EB Amsterdam ,Hoofddorppleinbuurt,2500,104 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7fd25899/dijkgraafplein,Apartment Dijkgraafplein,1069 EL Amsterdam ,De Punt,1775,100 ,Unknown,4 ,1970
+https://www.pararius.com/apartment-for-rent/amsterdam/29cd1009/cornelis-trooststraat,Apartment Cornelis Trooststraat,1072 JA Amsterdam ,Nieuwe Pijp,3500,110 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/24513399/ijburglaan,Apartment IJburglaan,1087 EM Amsterdam ,IJburg West,2100,96 ,Unknown,3 ,2001-2010
+https://www.pararius.com/apartment-for-rent/amsterdam/c28b760d/rijnstraat,Apartment Rijnstraat 234,1079 HV Amsterdam ,Rijnbuurt,3800,170 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2854fb07/nassaukade,Apartment Nassaukade,1053 LL Amsterdam ,Da Costabuurt,2500,106 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/203b3f5d/marnixkade,Apartment Marnixkade 90 1,1015 ZH Amsterdam ,Jordaan,1875,56 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3f95eb64/nieuwezijds-voorburgwal,Apartment Nieuwezijds Voorburgwal,1012 RT Amsterdam ,Burgwallen-Nieuwe Zijde,2500,88 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/849f9729/boterdiepstraat,Apartment Boterdiepstraat 15 HS,1079 SR Amsterdam ,Rijnbuurt,1850,57 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9f58960b/ferguutstraat,Apartment Ferguutstraat,1055 SV Amsterdam ,Erasmuspark,1600,57 ,Unknown,3 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/ffad6513/welnastraat,Studio Welnastraat 9,1096 GJ Amsterdam ,Omval/Overamstel,1590,28 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2d7df6e2/eef-kamerbeekstraat,Apartment Eef Kamerbeekstraat,1095 MP Amsterdam ,Zeeburgereiland/Nieuwe Diep,1795,50 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/53ac9520/geleenstraat,Apartment Geleenstraat 40 bg,1078 LG Amsterdam ,Scheldebuurt,2750,109 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f1b70b6c/nieuwe-looiersstraat,Apartment Nieuwe Looiersstraat,1017 VA Amsterdam ,De Weteringschans,2450,75 ,Unknown,2 ,1945-1959
+https://www.pararius.com/house-for-rent/amsterdam/0924d6be/jaagpad,House Jaagpad,1059 BN Amsterdam ,Hoofddorppleinbuurt,3250,150 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c9bb01a1/brouwersgracht,Apartment Brouwersgracht 75 A,1015 GC Amsterdam ,Grachtengordel-West,4950,160 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/05c50e9f/van-tuyll-van-serooskerkenweg,Apartment Van Tuyll van Serooskerkenweg,1076 JG Amsterdam ,Stadionbuurt,3375,115 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bd2d074e/wijdesteeg,Apartment Wijdesteeg,1012 RN Amsterdam ,Burgwallen-Nieuwe Zijde,2000,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3077f341/weteringschans,Apartment Weteringschans 104 3,1017 XS Amsterdam ,De Weteringschans,1950,95 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e90847f2/jan-van-galenstraat,Apartment Jan van Galenstraat,1056 BS Amsterdam ,Van Galenbuurt,1850,76 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b7defb6f/arubastraat,Apartment Arubastraat 15 2,1058 VD Amsterdam ,Westindische Buurt,3250,131 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1d48bde5/geuzenstraat,Apartment Geuzenstraat,1056 JX Amsterdam ,Geuzenbuurt,2100,57 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/40c29cdb/katwijkstraat,Apartment Katwijkstraat 14 H,1059 XP Amsterdam ,Hoofddorppleinbuurt,3000,130 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4cc702e3/sint-jacobsstraat,Apartment Sint Jacobsstraat,1012 NC Amsterdam ,Burgwallen-Nieuwe Zijde,2495,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/26e67b78/bestevaerstraat,Apartment Bestevâerstraat 7 3-C,1056 HD Amsterdam ,Geuzenbuurt,1275,20 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6d5ee1c5/galileiplantsoen,Apartment Galileïplantsoen,1098 NC Amsterdam ,Middenmeer,3250,140 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/14263fe1/nachtwachtlaan,Apartment Nachtwachtlaan,1058 EL Amsterdam ,Overtoomse Veld,2750,106 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ef5c4d52/maasstraat,Apartment Maasstraat 59 4,1078 HD Amsterdam ,Scheldebuurt,3000,122 ,Unknown,4 ,1928
+https://www.pararius.com/apartment-for-rent/amsterdam/c900a9dd/prinsengracht,Apartment Prinsengracht 305 D,1016 GX Amsterdam ,Grachtengordel-West,2250,100 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f2a31652/blasiusstraat,Apartment Blasiusstraat 70 B,1091 CW Amsterdam ,Weesperzijde,1850,60 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/ecf72fea/parosstraat,House Parosstraat 20,1060 LP Amsterdam ,Middelveldsche Akerpolder,3000,250 ,Furnished,9 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0f519c8f/gerard-doustraat,Apartment Gerard Doustraat,1073 XB Amsterdam ,Oude Pijp,2250,62 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9cc850e9/archimedesweg,Apartment Archimedesweg,1098 JR Amsterdam ,Middenmeer,2400,132 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a6f88db2/theophilusstraat,Apartment Theophilusstraat,1055 CN Amsterdam ,Erasmuspark,1950,50 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0be58411/baarsjesweg,Apartment Baarsjesweg,1058 AD Amsterdam ,Westindische Buurt,2000,46 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/61555b53/silodam,Apartment Silodam 153,1013 AS Amsterdam ,Houthavens,2200,83 ,Upholstered,2 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/db150ac5/korsjespoortsteeg,Studio Korsjespoortsteeg,1015 AR Amsterdam ,Grachtengordel-West,1395,37 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/abd4a1ff/valeriusstraat,Apartment Valeriusstraat,1075 GC Amsterdam ,Willemspark,1895,60 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/18676f3d/henkenshage,Apartment Henkenshage 17,1083 BX Amsterdam ,Buitenveldert-Oost,1950,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bcd43098/sloterkade,Apartment Sloterkade 166 C,1059 EB Amsterdam ,Hoofddorppleinbuurt,2250,106 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1dd4f824/poeldijkstraat,Apartment Poeldijkstraat,1059 VL Amsterdam ,Westlandgracht,2400,102 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/78cc2f18/sarphatikade,Apartment Sarphatikade,1017 WV Amsterdam ,De Weteringschans,3750,141 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/eddfb2ac/oranje-nassaulaan,Apartment Oranje Nassaulaan 62 BV,1075 AS Amsterdam ,Willemspark,5250,252 ,Upholstered,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/47084517/sloterkade,Apartment Sloterkade 22 H,1058 HE Amsterdam ,Hoofddorppleinbuurt,8000,194 ,Upholstered or furnished,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/778b2f69/bilderdijkstraat,Apartment Bilderdijkstraat 13 I,1052 NA Amsterdam ,Da Costabuurt,2500,70 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/65a320a8/cannenburg,Apartment Cannenburg,1081 HD Amsterdam ,Buitenveldert-West,3000,125 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/654ab651/marnixkade,Apartment Marnixkade 40 1,1015 XS Amsterdam ,Jordaan,1900,65 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8eb8b9fc/balthasar-floriszstraat,Apartment Balthasar Floriszstraat,1071 VC Amsterdam ,Museumkwartier,2250,82 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a9086d32/van-eeghenstraat,Apartment Van Eeghenstraat,1071 GK Amsterdam ,Museumkwartier,3750,110 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/162f74cc/marnixkade,House Marnixkade,1015 ZK Amsterdam ,Jordaan,2100,70 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/35a88138/spinozastraat,Apartment Spinozastraat,1018 HJ Amsterdam ,Weesperbuurt/Plantage,2500,62 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f296ba2d/daniel-stalpertstraat,Apartment Daniël Stalpertstraat 80 I,1072 XK Amsterdam ,Oude Pijp,2250,55 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4af79cbc/kleiburg,Apartment Kleiburg,1104 EA Amsterdam ,Bijlmer Oost,1595,68 ,Unknown,3 ,1971
+https://www.pararius.com/apartment-for-rent/amsterdam/af4a73de/da-costakade,Apartment Da Costakade,1053 WL Amsterdam ,Da Costabuurt,3500,110 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4833abe9/govert-flinckstraat,Apartment Govert Flinckstraat,1074 CA Amsterdam ,Oude Pijp,2400,100 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/63d923cd/willem-parelstraat,Apartment Willem Parelstraat 260,1018 KZ Amsterdam ,Oostelijke Eilanden/Kadijken,1995,45 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7bd04b11/gerard-brandtstraat,Apartment Gerard Brandtstraat,1054 JK Amsterdam ,Vondelbuurt,2100,63 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5c7af950/reitdiepstraat,Apartment Reitdiepstraat,1079 MA Amsterdam ,Rijnbuurt,1850,62 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bb3fbe02/plantage-kerklaan,Apartment Plantage Kerklaan 1 1,1018 SX Amsterdam ,Weesperbuurt/Plantage,2000,75 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6876e1d6/pieter-cornelisz-hooftstraat,Apartment Pieter Cornelisz. Hooftstraat,1071 CA Amsterdam ,Museumkwartier,3000,71 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4d0ddf73/sloterkade,Apartment Sloterkade,1058 HM Amsterdam ,Hoofddorppleinbuurt,1950,70 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8cb881ee/minervalaan,Apartment Minervalaan,1077 NP Amsterdam ,Apollobuurt,3000,130 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/61e2a6df/beulingstraat,Apartment Beulingstraat,1017 BA Amsterdam ,Grachtengordel-Zuid,2750,125 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/caa19966/moreelsestraat,Apartment Moreelsestraat 3 boven,1071 BJ Amsterdam ,Museumkwartier,3750,133 ,Unknown,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/88f124bd/kinderdijkstraat,Apartment Kinderdijkstraat,1079 GJ Amsterdam ,Scheldebuurt,1350,35 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/82a07e61/keizersgracht,Apartment Keizersgracht 430 D,1016 GD Amsterdam ,Grachtengordel-West,3000,115 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4ee9c5c3/herengracht,Apartment Herengracht,1016 BJ Amsterdam ,Grachtengordel-West,4000,175 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/19a1f3b7/rozengracht,Apartment Rozengracht 142 III,1016 NJ Amsterdam ,Jordaan,2350,65 ,Unknown,3 ,1911
+https://www.pararius.com/apartment-for-rent/amsterdam/94fbcab0/willem-de-zwijgerlaan,Apartment Willem de Zwijgerlaan,1055 RC Amsterdam ,Landlust,1750,55 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ff35571e/da-costakade,Apartment Da Costakade 180 2,1053 XE Amsterdam ,Van Lennepbuurt,2250,73 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/648bf8a6/ten-katestraat,Apartment Ten Katestraat,1053 CG Amsterdam ,Kinkerbuurt,2500,50 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/79fa402d/voetboogstraat,Apartment Voetboogstraat 16 I,1012 XL Amsterdam ,Burgwallen-Nieuwe Zijde,1650,62 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c57f4038/bloemstraat,Apartment Bloemstraat,1016 LD Amsterdam ,Jordaan,2500,55 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/be6b7201/amstelvlietstraat,Apartment Amstelvlietstraat,1096 GG Amsterdam ,Omval/Overamstel,3000,160 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4c3d875e/joris-ivensplein,Apartment Joris Ivensplein 78,1087 BP Amsterdam ,IJburg West,1750,116 ,Upholstered,3 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/2d0f0c72/bos-en-lommerplantsoen,Studio Bos en Lommerplantsoen,1055 AA Amsterdam ,De Kolenkit,1600,29 ,Upholstered or furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/635d58ac/sarphatistraat,Apartment Sarphatistraat 139 B,1018 GD Amsterdam ,Weesperbuurt/Plantage,2450,100 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8daa8493/admiraal-de-ruijterweg,Apartment Admiraal De Ruijterweg,1055 MZ Amsterdam ,Landlust,1650,80 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b41bf24e/lutmastraat,Apartment Lutmastraat,1072 JN Amsterdam ,Nieuwe Pijp,1990,60 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8ed042ad/werkendamstraat,Apartment Werkendamstraat,1107 KK Amsterdam ,Gein,1395,46 ,Unknown,2 ,1982
+https://www.pararius.com/apartment-for-rent/amsterdam/1fb5e576/beethovenstraat,Apartment Beethovenstraat 148 4,1077 JT Amsterdam ,Apollobuurt,4850,151 ,Furnished,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/702a614b/van-boetzelaerstraat,Apartment Van Boetzelaerstraat,1051 CZ Amsterdam ,Staatsliedenbuurt,2350,82 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aa3a805a/bloemstraat,Apartment Bloemstraat 36 K,1016 LC Amsterdam ,Jordaan,3000,92 ,Upholstered,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8ddd4c5c/keizersgracht,Apartment Keizersgracht,1015 CW Amsterdam ,Grachtengordel-West,3500,120 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9c174b47/august-allebeplein,Apartment August Allebéplein 229,1062 AB Amsterdam ,Overtoomse Veld,1450,45 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d1af2cb6/haparandaweg,Apartment Haparandaweg,1013 BD Amsterdam ,Houthavens,1560,46 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/01acad47/haparandaweg,Apartment Haparandaweg,1013 BD Amsterdam ,Houthavens,1498,46 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/814d7ac3/van-breestraat,Apartment Van Breestraat 109,1071 ZK Amsterdam ,Museumkwartier,4500,137 ,Upholstered,5 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/66cedbd4/noord-bevelandstraat,House Noord-Bevelandstraat 29,1025 NP Amsterdam ,Tuindorp Buiksloot,1900,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4d1050b0/rijswijkstraat,Apartment Rijswijkstraat 147 A,1062 ES Amsterdam ,Westlandgracht,1450,60 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9949352a/nicolaas-beetsstraat,Apartment Nicolaas Beetsstraat 126 1,1054 XT Amsterdam ,Helmersbuurt,1850,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/684b1ab7/jacob-van-lennepkade,Apartment Jacob van Lennepkade,1053 NK Amsterdam ,Van Lennepbuurt,4000,160 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b9ffd88e/hofgeest,Apartment Hofgeest,1102 EA Amsterdam ,Bijlmer Centrum,1925,94 ,Unknown,4 ,1969
+https://www.pararius.com/apartment-for-rent/amsterdam/fa2078ca/suze-robertsonstraat,Apartment Suze Robertsonstraat,1062 BT Amsterdam ,Overtoomse Veld,1925,66 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/28ca538e/jasper-leijnsenstraat,Apartment Jasper Leijnsenstraat 2 3,1056 XX Amsterdam ,Landlust,2600,90 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6ecec2fc/haarlemmerweg,Apartment Haarlemmerweg,1051 KR Amsterdam ,Staatsliedenbuurt,2300,70 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c4e23860/zieseniskade,Apartment Zieseniskade,1017 RT Amsterdam ,De Weteringschans,2200,70 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1c847efc/overtoom,Apartment Overtoom,1054 LH Amsterdam ,Overtoomse Sluis,2250,75 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7b12a2b7/keizersgracht,Apartment Keizersgracht 217 G,1016 DT Amsterdam ,Grachtengordel-West,3500,160 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4ffb53d7/prinsengracht,Apartment Prinsengracht 844 ll-lll,1017 JM Amsterdam ,De Weteringschans,2550,120 ,Upholstered,4 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/06953b2b/leimuidenstraat,House Leimuidenstraat,1059 EJ Amsterdam ,Hoofddorppleinbuurt,2600,90 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d3c33bab/koninginneweg,Apartment Koninginneweg,1075 CG Amsterdam ,Willemspark,2050,72 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8dbb4f3c/parnassusweg,Apartment Parnassusweg,1077 DE Amsterdam ,Prinses Irenebuurt e.o.,2300,102 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1c5364ff/keizersgracht,Apartment Keizersgracht 365 E,1016 EJ Amsterdam ,Grachtengordel-West,3850,130 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/f4e28034/buyskade,Studio Buyskade,1051 ME Amsterdam ,Staatsliedenbuurt,1600,58 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/47c9bef1/govert-flinckstraat,Apartment Govert Flinckstraat 10,1072 EJ Amsterdam ,Oude Pijp,2300,70 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f5b4dee6/faas-wilkesstraat,Apartment Faas Wilkesstraat 177 B,1095 MD Amsterdam ,Zeeburgereiland/Nieuwe Diep,1700,98 ,Shell,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/08adb13e/ruysdaelstraat,Apartment Ruysdaelstraat,1071 WX Amsterdam ,Museumkwartier,2500,78 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/60065fbc/rustenburgerstraat,Apartment Rustenburgerstraat 303 1,1073 GE Amsterdam ,Nieuwe Pijp,2195,50 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/518b8bcf/geldersekade,Apartment Geldersekade 119 B,1011 EN Amsterdam ,Nieuwmarkt/Lastage,2450,72 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e0c509cc/wilhelminastraat,Apartment Wilhelminastraat 213 2,1054 WG Amsterdam ,Overtoomse Sluis,2150,60 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5e813983/ridderspoorweg,Apartment Ridderspoorweg 60,1032 LL Amsterdam ,Noordelijke IJ-oevers West,2750,125 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/29c4ef8a/balthasar-floriszstraat,Apartment Balthasar Floriszstraat,1071 VB Amsterdam ,Museumkwartier,3550,123 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/56d847da/woestduinstraat,Apartment Woestduinstraat 109 H,1059 SP Amsterdam ,Hoofddorppleinbuurt,2100,70 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/df84cc9d/houtrijkstraat,Apartment Houtrijkstraat 220,1013 DV Amsterdam ,Spaarndammer- en Zeeheldenbuurt,1600,45 ,Upholstered,2 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/6d4d3d3c/schaarsbergenstraat,Studio Schaarsbergenstraat 59 A,1107 JS Amsterdam ,Holendrecht/Reigersbos,1200,34 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c34d35b0/prinsengracht,Apartment Prinsengracht 353 B,1016 HK Amsterdam ,Grachtengordel-West,2000,85 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/1875f413/hoendiepstraat,House Hoendiepstraat,1079 LX Amsterdam ,Rijnbuurt,2200,78 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/95d65ae1/montelbaanstraat,Apartment Montelbaanstraat,1011 EG Amsterdam ,Nieuwmarkt/Lastage,2500,60 ,Unknown,3 ,1933
+https://www.pararius.com/apartment-for-rent/amsterdam/cb921d78/karel-du-jardinstraat,Apartment Karel du Jardinstraat,1072 SE Amsterdam ,Nieuwe Pijp,2250,58 ,Unknown,3 ,1906-1930
+https://www.pararius.com/apartment-for-rent/amsterdam/e2fbe010/ridderspoorweg,Apartment Ridderspoorweg 90,1032 LL Amsterdam ,Noordelijke IJ-oevers West,2750,125 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/04938718/hobbemakade,Apartment Hobbemakade,1071 XK Amsterdam ,Museumkwartier,6000,135 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6079f650/valentijnkade,Apartment Valentijnkade 39 H,1095 JH Amsterdam ,Indische Buurt Oost,1700,47 ,Shell,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d1ef7e08/alexanderplein,Apartment Alexanderplein,1018 CG Amsterdam ,Weesperbuurt/Plantage,2400,75 ,Upholstered,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/d69ad1ce/h-stolleplantsoen,House H. Stolleplantsoen,1022 KK Amsterdam ,Elzenhagen,1975,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7b0a5496/prinsengracht,Apartment Prinsengracht 447 2,1016 HN Amsterdam ,Grachtengordel-West,2450,70 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a9b973d5/rijnstraat,Apartment Rijnstraat,1079 HT Amsterdam ,Rijnbuurt,2250,78 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ebf97d16/dijkgraafplein,Apartment Dijkgraafplein,1069 EV Amsterdam ,De Punt,2249,101 ,Unknown,4 ,1969
+https://www.pararius.com/apartment-for-rent/amsterdam/50afc42f/sassenheimstraat,Apartment Sassenheimstraat 59 3,1059 BD Amsterdam ,Hoofddorppleinbuurt,2600,80 ,Upholstered or furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f02d9c8f/nachtwachtlaan,Apartment Nachtwachtlaan,1058 EE Amsterdam ,Overtoomse Veld,2500,100 ,Upholstered or furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5f354873/hoogte-kadijk,Apartment Hoogte Kadijk,1018 BK Amsterdam ,Oostelijke Eilanden/Kadijken,2300,78 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4be44bb6/jacob-obrechtstraat,Apartment Jacob Obrechtstraat,1071 KG Amsterdam ,Museumkwartier,2850,97 ,Upholstered,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/2138b5bc/klaprozenweg,House Klaprozenweg,1032 KK Amsterdam ,Noordelijke IJ-oevers West,2950,207 ,Unknown,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/51b0874e/lekstraat,Apartment Lekstraat 114 2,1079 EW Amsterdam ,Scheldebuurt,2150,90 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/faeb5cf8/van-eeghenstraat,Apartment Van Eeghenstraat,1071 GD Amsterdam ,Museumkwartier,5850,196 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/570a300a/singel,Apartment Singel,1015 AG Amsterdam ,Grachtengordel-West,4000,108 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fadba78a/deurloostraat,Apartment Deurloostraat,1078 HT Amsterdam ,Scheldebuurt,3750,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/fa414f19/kerkstraat,House Kerkstraat 406,1017 JC Amsterdam ,Grachtengordel-Zuid,6350,198 ,Upholstered,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8df12028/hoofdweg,Apartment Hoofdweg 318 huis,1056 DA Amsterdam ,Van Galenbuurt,2175,73 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/04212034/termini,Apartment Termini 409,1025 XM Amsterdam ,Buikslotermeer,1650,75 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3ce26a6a/allard-piersonstraat,Apartment Allard Piersonstraat,1053 ZX Amsterdam ,Da Costabuurt,1875,70 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/26a2bbff/keizersgracht,Apartment Keizersgracht,1015 CX Amsterdam ,Grachtengordel-West,3250,119 ,Unknown,3 ,1880
+https://www.pararius.com/apartment-for-rent/amsterdam/dc4c39c7/jacob-van-lennepkade,Apartment Jacob van Lennepkade,1054 ZG Amsterdam ,Helmersbuurt,2495,73 ,Upholstered,3 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/d8d50cf1/haarlemmermeerstraat,Studio Haarlemmermeerstraat,1058 KH Amsterdam ,Hoofddorppleinbuurt,1750,27 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2482ec73/tweede-jan-van-der-heijdenstraat,Apartment Tweede Jan van der Heijdenstraat,1074 XT Amsterdam ,Oude Pijp,2500,66 ,Unknown,3 ,1883
+https://www.pararius.com/apartment-for-rent/amsterdam/9018856b/leidsegracht,Apartment Leidsegracht,1016 CR Amsterdam ,Jordaan,2400,105 ,Unknown,2 ,1800
+https://www.pararius.com/apartment-for-rent/amsterdam/09bab1f9/eerste-helmersstraat,Apartment Eerste Helmersstraat,1054 DJ Amsterdam ,Helmersbuurt,5000,144 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ad314576/govert-flinckstraat,Apartment Govert Flinckstraat 384 2,1074 CH Amsterdam ,Oude Pijp,2100,60 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/df0f23e7/pieter-aertszstraat,Apartment Pieter Aertszstraat,1073 SH Amsterdam ,Nieuwe Pijp,2500,67 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f13f8abb/loenermark,Apartment Loenermark 375,1025 TH Amsterdam ,Buikslotermeer,2000,95 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/631802e4/zocherstraat,Apartment Zocherstraat 24 II,1054 LX Amsterdam ,Overtoomse Sluis,2250,70 ,Unknown,3 ,1906-1930
+https://www.pararius.com/apartment-for-rent/amsterdam/53c38ba3/frederik-hendrikstraat,Apartment Frederik Hendrikstraat,1052 JA Amsterdam ,Frederik Hendrikbuurt,1750,75 ,Unknown,2 ,1905
+https://www.pararius.com/apartment-for-rent/amsterdam/931e0a18/valkenburgerstraat,Apartment Valkenburgerstraat,1011 NC Amsterdam ,Nieuwmarkt/Lastage,2500,85 ,Unknown,3 ,2007
+https://www.pararius.com/apartment-for-rent/amsterdam/7b7b4f9d/valeriusstraat,Apartment Valeriusstraat 102 2,1075 GC Amsterdam ,Willemspark,4500,154 ,Upholstered or furnished,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/67b9abc0/alexanderkade,Apartment Alexanderkade,1018 CH Amsterdam ,Weesperbuurt/Plantage,1850,90 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c8fd5c4a/korte-ouderkerkerdijk,Apartment Korte Ouderkerkerdijk 1 B-3,1096 AC Amsterdam ,Omval/Overamstel,6000,163 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/43e5f0ac/kalkmarkt,Apartment Kalkmarkt,1011 BC Amsterdam ,Nieuwmarkt/Lastage,1250,125 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/06b50ab4/carnapstraat,Apartment Carnapstraat,1062 KT Amsterdam ,Westlandgracht,1755,73 ,Unknown,2 ,2015
+https://www.pararius.com/house-for-rent/amsterdam/b6643a0e/bestevaerstraat,House Bestevâerstraat,1056 HM Amsterdam ,Geuzenbuurt,3500,150 ,Upholstered or furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/daa799ab/mary-van-der-sluisstraat,Apartment Mary van der Sluisstraat 286,1095 ME Amsterdam ,Zeeburgereiland/Nieuwe Diep,2500,88 ,Unknown,3 ,2018
+https://www.pararius.com/apartment-for-rent/amsterdam/0bdf9376/nassaukade,Apartment Nassaukade 155 1,1053 LK Amsterdam ,Da Costabuurt,1850,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/dcdded9d/brouwersgracht,Apartment Brouwersgracht,1015 GA Amsterdam ,Grachtengordel-West,2400,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ed0f7eae/van-de-veldestraat,Apartment Van de Veldestraat,1071 CW Amsterdam ,Museumkwartier,2600,94 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6383d624/singel,Apartment Singel,1017 AX Amsterdam ,Grachtengordel-Zuid,2300,82 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aacebbcb/oranje-vrijstaatplein,Apartment Oranje-Vrijstaatplein,1093 NG Amsterdam ,Dapperbuurt,2750,100 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c53392b0/veembroederhof,Apartment Veembroederhof 255 2 PP,1019 HD Amsterdam ,Oostelijk Havengebied,4500,183 ,Unknown,6 ,2006
+https://www.pararius.com/house-for-rent/amsterdam/306c6d61/oudezijds-achterburgwal,House Oudezijds Achterburgwal 89,1012 DC Amsterdam ,Burgwallen-Oude Zijde,6250,261 ,Unknown,8 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1175f144/loenermark,Apartment Loenermark,1025 TX Amsterdam ,Buikslotermeer,1450,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9698347f/hugo-de-grootkade,Apartment Hugo de Grootkade,1052 LP Amsterdam ,Frederik Hendrikbuurt,1650,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/176c1629/leenhofstraat,Apartment Leenhofstraat,1067 KW Amsterdam ,Geuzenveld,1750,69 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/443003a5/cornelis-anthoniszstraat,Apartment Cornelis Anthoniszstraat,1071 VR Amsterdam ,Museumkwartier,3150,115 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6c72f89f/dikninge,Apartment Dikninge,1083 VC Amsterdam ,Buitenveldert-Oost,2400,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2a79e185/keizersgracht,Apartment Keizersgracht 96 G,1015 CV Amsterdam ,Grachtengordel-West,2300,90 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/102fd54b/karel-du-jardinstraat,Apartment Karel du Jardinstraat 21 1,1072 SE Amsterdam ,Nieuwe Pijp,2500,60 ,Unknown,3 ,1926
+https://www.pararius.com/apartment-for-rent/amsterdam/c8e7909d/ruysdaelkade,Apartment Ruysdaelkade 77 4,1072 AL Amsterdam ,Oude Pijp,2000,49 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c6fa492b/ertskade,Apartment Ertskade 268,1019 BB Amsterdam ,Oostelijk Havengebied,2800,123 ,Shell,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5f028415/bosboom-toussaintstraat,Apartment Bosboom Toussaintstraat,1054 AN Amsterdam ,Helmersbuurt,3000,125 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8633b8fd/kerkstraat,Apartment Kerkstraat,1017 HC Amsterdam ,Grachtengordel-Zuid,2550,105 ,Upholstered,3 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/6bd80d4d/nieuwezijds-voorburgwal,Studio Nieuwezijds Voorburgwal,1012 RD Amsterdam ,Burgwallen-Nieuwe Zijde,1350,25 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8dad19aa/johan-hofmanstraat,Apartment Johan Hofmanstraat,1069 KE Amsterdam ,Osdorp-Midden,2250,96 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/acc8bf30/ruysdaelkade,Apartment Ruysdaelkade 197 2,1072 AV Amsterdam ,Nieuwe Pijp,1995,73 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c92988ab/kinkerstraat,Apartment Kinkerstraat,1053 EN Amsterdam ,Kinkerbuurt,1750,45 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7290bf31/tweede-oosterparkstraat,Apartment Tweede Oosterparkstraat 184 H,1092 BT Amsterdam ,Oosterparkbuurt,2100,84 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d6103b28/omval,Apartment Omval,1096 AA Amsterdam ,Omval/Overamstel,2250,107 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4d519888/brouwersgracht,Apartment Brouwersgracht 5 F,1015 GA Amsterdam ,Grachtengordel-West,1900,70 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/62deceec/beemsterstraat,Apartment Beemsterstraat 546 G11,1024 BV Amsterdam ,Waterlandpleinbuurt,994,63 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6d722b49/weesperzijde,Apartment Weesperzijde 6 4,1091 EA Amsterdam ,Weesperzijde,2300,82 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8b140435/generaal-vetterstraat,Apartment Generaal Vetterstraat 2,1059 BV Amsterdam ,Hoofddorppleinbuurt,3250,143 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c6192605/bentinckstraat,Apartment Bentinckstraat,1051 GD Amsterdam ,Staatsliedenbuurt,2500,87 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e1ff06b8/wijdesteeg,Apartment Wijdesteeg,1012 RN Amsterdam ,Burgwallen-Nieuwe Zijde,2175,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/49165e8e/raamplein,Apartment Raamplein 2,1016 XK Amsterdam ,Jordaan,2500,80 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e869cbc6/vondelstraat,Apartment Vondelstraat 11 C,1054 GC Amsterdam ,Vondelbuurt,2650,90 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/daaf05cb/ruysdaelkade,Apartment Ruysdaelkade 259 A,1072 AZ Amsterdam ,Nieuwe Pijp,2100,62 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0b4d6651/eerste-helmersstraat,Apartment Eerste Helmersstraat,1054 DW Amsterdam ,Helmersbuurt,2950,70 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/62e1fd50/warmoesstraat,Apartment Warmoesstraat 12 G,1012 JD Amsterdam ,Burgwallen-Oude Zijde,1975,72 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a37e3e49/bloemgracht,Apartment Bloemgracht,1015 TR Amsterdam ,Jordaan,4750,132 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a353a823/de-lairessestraat,Apartment De Lairessestraat 172 F,1075 HM Amsterdam ,Willemspark,3250,106 ,Unknown,4 ,1923
+https://www.pararius.com/apartment-for-rent/amsterdam/15b81714/van-eeghenlaan,Apartment Van Eeghenlaan 12 1,1071 EM Amsterdam ,Museumkwartier,4500,140 ,Unknown,3 ,1906-1930
+https://www.pararius.com/apartment-for-rent/amsterdam/75068505/van-eeghenstraat,Apartment Van Eeghenstraat 58 II,1071 GJ Amsterdam ,Museumkwartier,2950,71 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/07840d1f/pieter-baststraat,Apartment Pieter Baststraat,1071 TW Amsterdam ,Museumkwartier,2500,72 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c33a58aa/willem-parelstraat,Apartment Willem Parelstraat 282,1018 KZ Amsterdam ,Oostelijke Eilanden/Kadijken,1995,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a4a26c98/brouwersgracht,Apartment Brouwersgracht 829,1015 GK Amsterdam ,Jordaan,3450,125 ,Upholstered or furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cc9e40a4/cliostraat,Apartment Cliostraat 55 3V,1077 KD Amsterdam ,Apollobuurt,1875,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/46ae187e/emmalaan,Apartment Emmalaan 17 C,1075 AT Amsterdam ,Willemspark,3250,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8b009361/wijenburg,Apartment Wijenburg 110,1082 VX Amsterdam ,Buitenveldert-West,2150,67 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/84465df2/loevestein,Apartment Loevestein,1082 XG Amsterdam ,Buitenveldert-West,2150,67 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2d5b8f33/orteliuskade,Apartment Orteliuskade,1057 AD Amsterdam ,Hoofdweg e.o.,2500,75 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d21d4296/bella-vistastraat,Apartment Bella Vistastraat,1096 GM Amsterdam ,Omval/Overamstel,3000,113 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d62a8c9c/ceintuurbaan,Apartment Ceintuurbaan,1072 GD Amsterdam ,Nieuwe Pijp,2450,80 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d3c9133d/marjoleinstraat,Apartment Marjoleinstraat,1034 DR Amsterdam ,Banne Buiksloot,1500,35 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a978ebc1/langswater,Apartment Langswater,1069 TS Amsterdam ,De Punt,2250,70 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fb917152/tweede-sweelinckstraat,Apartment Tweede Sweelinckstraat,1073 EH Amsterdam ,Nieuwe Pijp,1800,52 ,Unknown,2 ,1906
+https://www.pararius.com/apartment-for-rent/amsterdam/3426d6bf/van-eeghenstraat,Apartment Van Eeghenstraat,1071 EZ Amsterdam ,Museumkwartier,2800,98 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bb113be6/nieuwe-ridderstraat,Apartment Nieuwe Ridderstraat,1011 CN Amsterdam ,Nieuwmarkt/Lastage,4950,215 ,Unknown,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/85ea7581/van-eeghenstraat,Apartment Van Eeghenstraat,1071 EZ Amsterdam ,Museumkwartier,2650,81 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/978160f4/jan-evertsenstraat,Apartment Jan Evertsenstraat,1057 BS Amsterdam ,Hoofdweg e.o.,1750,65 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e0b71a86/plantage-kerklaan,Apartment Plantage Kerklaan,1018 TA Amsterdam ,Weesperbuurt/Plantage,2150,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/32cfda9a/westerstraat,Apartment Westerstraat,1015 LZ Amsterdam ,Jordaan,1650,35 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/27578963/afroditekade,Apartment Afroditekade,1076 DZ Amsterdam ,Stadionbuurt,2200,100 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aeb5a407/nicolaas-maesstraat,Apartment Nicolaas Maesstraat,1071 RD Amsterdam ,Museumkwartier,2800,73 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/480f4e74/haparandaweg,Apartment Haparandaweg,1013 BD Amsterdam ,Houthavens,1500,55 ,Upholstered,1 room,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/af3c160c/bos-en-lommerplantsoen,Studio Bos en Lommerplantsoen 35 C,1055 AA Amsterdam ,De Kolenkit,1300,28 ,Upholstered,1 room,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/2e5cbaf2/middenweg,House Middenweg,1098 AH Amsterdam ,Middenmeer,3000,211 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b48b7a31/kuipersstraat,Apartment Kuipersstraat 77 2,1074 EH Amsterdam ,Nieuwe Pijp,4250,106 ,Unknown,4 ,1903
+https://www.pararius.com/apartment-for-rent/amsterdam/63c9571d/keizersgracht,Apartment Keizersgracht,1015 CR Amsterdam ,Grachtengordel-West,3000,140 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d2f5ed44/eksterstraat,Apartment Eksterstraat,1021 EA Amsterdam ,IJplein/Vogelbuurt,1800,90 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/03cb4709/prinsengracht,Apartment Prinsengracht 485 C + PP,1016 HP Amsterdam ,Grachtengordel-West,3250,117 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fbb4a99c/keizersgracht,Apartment Keizersgracht,1016 DR Amsterdam ,Grachtengordel-West,2850,130 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/feb6624d/amstelkade,Apartment Amstelkade 168 3,1078 AZ Amsterdam ,Scheldebuurt,3500,102 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8f973eb0/valkenisseweg,Apartment Valkenisseweg,1069 BX Amsterdam ,Osdorp-Midden,1850,88 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/e19abba6/keizersgracht,House Keizersgracht 786,1017 EC Amsterdam ,Grachtengordel-Zuid,10500,450 ,Upholstered,12 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a37bd22b/sint-willibrordusstraat,Apartment Sint Willibrordusstraat 10,1074 XL Amsterdam ,Nieuwe Pijp,2500,118 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e96223ed/peter-schatstraat,Apartment Peter Schatstraat,1082 MX Amsterdam ,Zuidas,6750,158 ,Unknown,4 ,2017
+https://www.pararius.com/apartment-for-rent/amsterdam/1c97db3b/paramaribostraat,Apartment Paramaribostraat 132 2,1058 VP Amsterdam ,Westindische Buurt,3100,133 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d3f49e8e/keizersgracht,Apartment Keizersgracht,1015 CW Amsterdam ,Grachtengordel-West,2750,80 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6b91ce0f/paulus-potterstraat,Apartment Paulus Potterstraat 24 2,1071 DA Amsterdam ,Museumkwartier,11000,242 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f0c8e86f/lange-leidsedwarsstraat,Apartment Lange Leidsedwarsstraat,1017 NR Amsterdam ,De Weteringschans,2700,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/af5ece04/grootzeilhof,Apartment Grootzeilhof,1034 MC Amsterdam ,Banne Buiksloot,2200,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8fca53db/eerste-jan-van-der-heijdenstraat,Apartment Eerste Jan van der Heijdenstraat 116 H,1072 VB Amsterdam ,Oude Pijp,3500,83 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/dab38845/sanderijnstraat,Apartment Sanderijnstraat,1055 BM Amsterdam ,Erasmuspark,1750,65 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/856aedf3/van-baerlestraat,Apartment Van Baerlestraat,1071 BB Amsterdam ,Museumkwartier,2250,55 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c8bb788e/victorieplein,Apartment Victorieplein,1079 KM Amsterdam ,Scheldebuurt,3250,110 ,Upholstered,4 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/32a42cdf/westerstraat,Studio Westerstraat,1015 ML Amsterdam ,Jordaan,1350,30 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fa96bd38/beemsterstraat,Apartment Beemsterstraat 546 a8,1024 BV Amsterdam ,Waterlandpleinbuurt,995,66 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4082ccb1/haringvlietstraat,Apartment Haringvlietstraat 15 I,1078 JZ Amsterdam ,Scheldebuurt,2500,91 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3e35e70e/kloveniersburgwal,Apartment Kloveniersburgwal,1011 JX Amsterdam ,Nieuwmarkt/Lastage,2595,100 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e34cfac5/krombekstraat,Apartment Krombekstraat,1104 KT Amsterdam ,Bijlmer Oost,1850,65 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/027167d0/sint-nicolaasstraat,Apartment Sint Nicolaasstraat 2 B,1012 NK Amsterdam ,Burgwallen-Nieuwe Zijde,2300,100 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/05b5d09d/sprinklerstraat,Apartment Sprinklerstraat,1019 VR Amsterdam ,Indische Buurt Oost,2500,94 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/e040bfd3/bloemgracht,House Bloemgracht 172,1015 TV Amsterdam ,Jordaan,6000,202 ,Upholstered,8 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3982ab40/groen-van-prinstererstraat,Apartment Groen van Prinstererstraat,1051 EH Amsterdam ,Staatsliedenbuurt,2400,73 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a94326c9/korte-ouderkerkerdijk,Apartment Korte Ouderkerkerdijk 1 W2,1096 AC Amsterdam ,Omval/Overamstel,9950,196 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e6fcf716/dusartstraat,Apartment Dusartstraat,1072 HV Amsterdam ,Nieuwe Pijp,2500,75 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9afd52c7/rheastraat,Apartment Rheastraat 24,1076 DS Amsterdam ,Stadionbuurt,2750,125 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5ca40c05/banstraat,Apartment Banstraat 55 II,1071 JX Amsterdam ,Museumkwartier,2100,75 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8a64796f/ndsm-pier,Apartment NDSM-pier,1033 RE Amsterdam ,Noordelijke IJ-oevers West,1740,65 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/46e24875/ndsm-pier,Apartment NDSM-pier,1033 RE Amsterdam ,Noordelijke IJ-oevers West,2450,110 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/29597cb1/ndsm-pier,Apartment NDSM-pier,1033 RE Amsterdam ,Noordelijke IJ-oevers West,3415,130 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0786997a/keizersgracht,Apartment Keizersgracht 633 A,1017 DS Amsterdam ,Grachtengordel-Zuid,3400,54 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c9a0a938/blasiusstraat,Apartment Blasiusstraat,1091 CR Amsterdam ,Weesperzijde,2150,66 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/491b5860/jennerstraat,Apartment Jennerstraat,1097 GB Amsterdam ,Frankendael,2300,108 ,Unknown,6 ,1960-1970
+https://www.pararius.com/apartment-for-rent/amsterdam/cd4508a5/jacob-van-lennepkade,Apartment Jacob van Lennepkade,1054 ZT Amsterdam ,Overtoomse Sluis,2075,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e5b021e8/reguliersdwarsstraat,Apartment Reguliersdwarsstraat 100 C,1017 BN Amsterdam ,Grachtengordel-Zuid,3250,104 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f26c6edd/reguliersdwarsstraat,Apartment Reguliersdwarsstraat 98 F,1017 BN Amsterdam ,Grachtengordel-Zuid,2750,85 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/702f5591/reguliersdwarsstraat,Apartment Reguliersdwarsstraat 100 D,1017 BN Amsterdam ,Grachtengordel-Zuid,3100,97 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5eaa3172/reguliersdwarsstraat,Apartment Reguliersdwarsstraat 98 E,1017 BN Amsterdam ,Grachtengordel-Zuid,2750,85 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/742e552c/reguliersdwarsstraat,Apartment Reguliersdwarsstraat 98 B,1017 BN Amsterdam ,Grachtengordel-Zuid,2950,92 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/98c45199/fagelstraat,Apartment Fagelstraat 94 3,1052 GJ Amsterdam ,Frederik Hendrikbuurt,2500,92 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1a2bb77b/corellistraat,Apartment Corellistraat 3 3,1077 HA Amsterdam ,Apollobuurt,6000,181 ,Upholstered,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/91d92194/prinsengracht,Apartment Prinsengracht,1017 JJ Amsterdam ,Grachtengordel-Zuid,2500,72 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/17750dbc/frans-van-mierisstraat,Apartment Frans van Mierisstraat 69 II,1071 RL Amsterdam ,Museumkwartier,4850,187 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0061176f/herengracht,Apartment Herengracht 579 1,1017 CD Amsterdam ,Grachtengordel-Zuid,5400,127 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ad866930/ben-van-meerendonkstraat,Apartment Ben van Meerendonkstraat,1087 LN Amsterdam ,IJburg Zuid,4950,240 ,Upholstered or furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/77047e95/lijnbaansgracht,Apartment Lijnbaansgracht,1016 XA Amsterdam ,Jordaan,2500,95 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/e12ac0b6/solitudolaan,House Solitudolaan,1096 DS Amsterdam ,Omval/Overamstel,3975,156 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7a50f6b0/looiersgracht,Apartment Looiersgracht,1016 VS Amsterdam ,Jordaan,3250,85 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e34e2f1e/keizersgracht,Apartment Keizersgracht 634 D,1017 ER Amsterdam ,Grachtengordel-Zuid,2500,60 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/dad5b83e/leidsegracht,House Leidsegracht 55,1017 NB Amsterdam ,Grachtengordel-Zuid,5100,190 ,Upholstered or furnished,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/54ace6e1/het-breed,Apartment Het Breed,1025 HW Amsterdam ,Buikslotermeer,1925,62 ,Unknown,2 ,1972
+https://www.pararius.com/apartment-for-rent/amsterdam/f3ab5b12/nicolaas-maesstraat,Apartment Nicolaas Maesstraat,1071 RG Amsterdam ,Museumkwartier,3150,98 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/30f0e3d2/haarlemmerdijk,Apartment Haarlemmerdijk,1013 KC Amsterdam ,Haarlemmerbuurt,2050,60 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/964d3238/van-de-veldestraat,Apartment Van de Veldestraat 7 bv,1071 CW Amsterdam ,Museumkwartier,4750,190 ,Upholstered,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/58e8afe8/buitenzagerij,Apartment Buitenzagerij 64,1021 NR Amsterdam ,IJplein/Vogelbuurt,1600,60 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d8651741/kea-boumanstraat,Apartment Kea Boumanstraat,1095 MA Amsterdam ,Zeeburgereiland/Nieuwe Diep,2400,140 ,Upholstered or furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3ffb5239/vijzelgracht,Apartment Vijzelgracht 33 3,1017 HN Amsterdam ,De Weteringschans,2275,93 ,Unknown,3 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/b606069f/tuinstraat,Apartment Tuinstraat 30 2,1015 PE Amsterdam ,Jordaan,2750,111 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/21c6c990/amstel,House Amstel 49,1011 PW Amsterdam ,Nieuwmarkt/Lastage,4950,125 ,Upholstered or furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d519aa2a/nicolaas-maesstraat,Apartment Nicolaas Maesstraat 77 II-III,1071 PS Amsterdam ,Museumkwartier,5750,185 ,Furnished,6 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/b16ff618/nederhoven,House Nederhoven,1083 AM Amsterdam ,Buitenveldert-Oost,8500,336 ,Unknown,11 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4044f93e/jan-van-zutphenstraat,Apartment Jan van Zutphenstraat,1069 RS Amsterdam ,Osdorp-Midden,2500,118 ,Unknown,1 room,2007
+https://www.pararius.com/apartment-for-rent/amsterdam/6459aa45/reguliersgracht,Apartment Reguliersgracht 78 B,1017 LV Amsterdam ,Grachtengordel-Zuid,5500,141 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/507a1fa1/bredeweg,Apartment Bredeweg 43 II,1098 BN Amsterdam ,Middenmeer,3250,134 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5490e21d/admiraal-de-ruijterweg,Apartment Admiraal De Ruijterweg,1055 MP Amsterdam ,Landlust,3350,139 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/796db68c/laagte-kadijk,Apartment Laagte Kadijk,1018 BB Amsterdam ,Oostelijke Eilanden/Kadijken,2250,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f0707eac/ceramiquelaan,Apartment Céramiquelaan 211,1031 KG Amsterdam ,Noordelijke IJ-oevers West,15000,250 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/477f21e9/rhijnvis-feithstraat,Apartment Rhijnvis Feithstraat 24 E,1054 TX Amsterdam ,Overtoomse Sluis,2500,52 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/73f30a05/mercuriusplein,Apartment Mercuriusplein 3 C,1033 AZ Amsterdam ,Tuindorp Oostzaan,1240,47 ,Shell,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/36ab45f4/nieuwendijk,Apartment Nieuwendijk 36 2,1012 ML Amsterdam ,Burgwallen-Nieuwe Zijde,2750,90 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/af656ae8/van-nijenrodeweg,Apartment Van Nijenrodeweg,1083 EL Amsterdam ,Buitenveldert-Oost,1850,88 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1fc099f3/vrolikstraat,Apartment Vrolikstraat,1092 TW Amsterdam ,Oosterparkbuurt,1950,57 ,Unknown,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/568711df/staringstraat,Apartment Staringstraat,1054 VR Amsterdam ,Overtoomse Sluis,1800,75 ,Shell,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/feb37870/bloemgracht,Apartment Bloemgracht,1015 TJ Amsterdam ,Jordaan,2500,87 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d0b22993/haarlemmerdijk,Apartment Haarlemmerdijk,1013 JK Amsterdam ,Haarlemmerbuurt,1600,50 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/58b5f4c9/galvanistraat,Apartment Galvanistraat 4 H,1098 NL Amsterdam ,Middenmeer,2250,90 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c5fb8437/marskramerstraat,Apartment Marskramerstraat 19,1033 WH Amsterdam ,Oostzanerwerf,1500,60 ,Unknown,2 ,1990
+https://www.pararius.com/apartment-for-rent/amsterdam/29d96786/louis-davidsstraat,Apartment Louis Davidsstraat,1068 SJ Amsterdam ,Osdorp-Oost,2250,60 ,Unknown,2 ,1985
+https://www.pararius.com/apartment-for-rent/amsterdam/8b193285/saxenburgerstraat,Apartment Saxenburgerstraat 12 1,1054 KP Amsterdam ,Overtoomse Sluis,2250,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3aa793f6/saxen-weimarlaan,Apartment Saxen-Weimarlaan 20,1075 CB Amsterdam ,Willemspark,4500,170 ,Furnished,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/30a9bbf8/prinseneiland,Apartment Prinseneiland 50 2L,1013 LR Amsterdam ,Haarlemmerbuurt,2500,110 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/9480dc5f/balearenlaan,House Balearenlaan 82,1060 TM Amsterdam ,Middelveldsche Akerpolder,2500,210 ,Furnished,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f125bb67/kalkmarkt,Apartment Kalkmarkt,1011 BC Amsterdam ,Nieuwmarkt/Lastage,2450,125 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3cd99910/willem-frederik-hermansstraat,Apartment Willem Frederik Hermansstraat,1011 DG Amsterdam ,Nieuwmarkt/Lastage,5000,170 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/25d905a8/willem-frederik-hermansstraat,Apartment Willem Frederik Hermansstraat,1011 DG Amsterdam ,Nieuwmarkt/Lastage,2150,68 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7f31dbd7/ridderspoorweg,Apartment Ridderspoorweg,1032 LL Amsterdam ,Noordelijke IJ-oevers West,3250,98 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c95cb7c0/derde-hugo-de-grootstraat,Apartment Derde Hugo de Grootstraat,1052 LK Amsterdam ,Frederik Hendrikbuurt,1850,51 ,Unknown,2 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/fba7c038/rubensstraat,Apartment Rubensstraat,1077 MV Amsterdam ,Apollobuurt,3750,127 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/de8e338a/gustav-mahlerlaan,Apartment Gustav Mahlerlaan,1082 ME Amsterdam ,Zuidas,3500,112 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bfdfad4f/leidsekade,Apartment Leidsekade 102 D,1017 PP Amsterdam ,De Weteringschans,4150,141 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6dbc1af3/bankastraat,Apartment Bankastraat,1094 EB Amsterdam ,Indische Buurt West,1600,60 ,Unknown,2 ,1900
+https://www.pararius.com/house-for-rent/amsterdam/8b7f3e6f/leidsegracht,House Leidsegracht,1016 CP Amsterdam ,Grachtengordel-West,6000,201 ,Unknown,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6fecc4e5/kastelenstraat,Apartment Kastelenstraat 307 3,1082 EH Amsterdam ,Buitenveldert-West,1650,75 ,Unknown,3 ,1961
+https://www.pararius.com/apartment-for-rent/amsterdam/15834fc1/lorreinenstraat,Apartment Lorreinenstraat 8 H,1055 CZ Amsterdam ,Erasmuspark,2150,78 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7331149a/kuipersstraat,Apartment Kuipersstraat,1074 EK Amsterdam ,Nieuwe Pijp,2500,77 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/825c03a5/derde-helmersstraat,Apartment Derde Helmersstraat,1054 BM Amsterdam ,Helmersbuurt,3750,122 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/47fa0908/eerste-helmersstraat,Apartment Eerste Helmersstraat 289 2,1054 EA Amsterdam ,Overtoomse Sluis,2750,70 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/d25ad147/herengracht,House Herengracht 315,1016 AV Amsterdam ,Grachtengordel-West,3000,170 ,Upholstered,4 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/b0878be0/singel,House Singel 377,1012 WL Amsterdam ,Burgwallen-Nieuwe Zijde,2900,115 ,Upholstered,4 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/aa45e9b1/ferdinand-bolstraat,Studio Ferdinand Bolstraat,1072 LJ Amsterdam ,Oude Pijp,1800,40 ,Unknown,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9669b693/arent-janszoon-ernststraat,Apartment Arent Janszoon Ernststraat 43,1083 GP Amsterdam ,Buitenveldert-Oost,2800,135 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3e02127d/amstel,Apartment Amstel,1018 ES Amsterdam ,Weesperbuurt/Plantage,2700,82 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e495959c/vierwindenstraat,Apartment Vierwindenstraat,1013 LA Amsterdam ,Haarlemmerbuurt,7500,236 ,Furnished,9 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/53c7ff6e/adrienne-solserhof,House Adriënne Solserhof 2,1087 MT Amsterdam ,IJburg Zuid,3500,176 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/42bdbfe6/cornelis-schuytstraat,Apartment Cornelis Schuytstraat,1071 JH Amsterdam ,Museumkwartier,4250,142 ,Unknown,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e780d953/nieuwe-oostenburgerstraat,Apartment Nieuwe Oostenburgerstraat 1 D,1018 MB Amsterdam ,Oostelijke Eilanden/Kadijken,3000,120 ,Unknown,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0d75652f/keizersgracht,Apartment Keizersgracht,1017 ES Amsterdam ,Grachtengordel-Zuid,2500,78 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9ba9f3cc/keizersgracht,Apartment Keizersgracht,1017 ES Amsterdam ,Grachtengordel-Zuid,2500,80 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ae73230c/pieter-de-hoochstraat,Apartment Pieter de Hoochstraat,1071 ED Amsterdam ,Museumkwartier,3700,130 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2ff95469/hogewerf,Apartment Hogewerf,1082 NG Amsterdam ,Buitenveldert-Oost,2250,85 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/3a2238ed/akerpolderstraat,House Akerpolderstraat,1066 ET Amsterdam ,Sloter-/Riekerpolder,2700,169 ,Upholstered,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d812368c/prinsengracht,Apartment Prinsengracht 533 I,1016 HS Amsterdam ,Grachtengordel-West,1900,40 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/d31be43a/pijlkruidstraat,House Pijlkruidstraat 1,1087 CE Amsterdam ,IJburg West,2750,135 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2d5865cb/cornelis-schuytstraat,Apartment Cornelis Schuytstraat 25 2+3,1071 JD Amsterdam ,Museumkwartier,3950,150 ,Upholstered,4 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/5d198026/schapenburgerpad,House Schapenburgerpad 20,1071 ZA Amsterdam ,Museumkwartier,4000,198 ,Upholstered or furnished,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/67fa5f60/gustav-mahlerplein,Apartment Gustav Mahlerplein 285 PH,1082 MS Amsterdam ,Zuidas,8000,193 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cc268b9e/van-baerlestraat,Apartment Van Baerlestraat 14 3,1071 AW Amsterdam ,Museumkwartier,2800,162 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d8fece89/leliegracht,Apartment Leliegracht 25 B,1016 GR Amsterdam ,Grachtengordel-West,2850,92 ,Unknown,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/281183f6/bronckhorststraat,Apartment Bronckhorststraat 46,1071 WV Amsterdam ,Museumkwartier,3500,104 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/27041905/solitudolaan,Apartment Solitudolaan,1096 DS Amsterdam ,Omval/Overamstel,6500,204 ,Unknown,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f7c8d6c9/rooseveltlaan,Apartment Rooseveltlaan,1079 AB Amsterdam ,Scheldebuurt,2750,143 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6804fb71/ijburglaan,Apartment IJburglaan,1087 CE Amsterdam ,IJburg West,2600,110 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/26b54d99/koningslaan,Apartment Koningslaan 24 C,1075 AD Amsterdam ,Willemspark,3950,83 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/78fc6860/sarphatistraat,Apartment Sarphatistraat,1018 GK Amsterdam ,Weesperbuurt/Plantage,4950,142 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d1f4be29/singel,Apartment Singel,1016 AC Amsterdam ,Grachtengordel-West,3450,105 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a907a2e0/keizersgracht,Apartment Keizersgracht 114,1015 CV Amsterdam ,Grachtengordel-West,3000,80 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/eb3f38d1/orteliusstraat,Apartment Orteliusstraat 221 3,1056 NR Amsterdam ,Van Galenbuurt,1850,60 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/7ea26098/simon-stevinstraat,House Simon Stevinstraat 33 hs,1097 BX Amsterdam ,Frankendael,3250,138 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b50a2379/van-baerlestraat,Apartment Van Baerlestraat 72 D,1071 BA Amsterdam ,Museumkwartier,3500,150 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ca4c224f/minervalaan,Apartment Minervalaan,1077 PK Amsterdam ,Apollobuurt,3950,140 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9ba1e6bb/herengracht,Apartment Herengracht,1017 CD Amsterdam ,Grachtengordel-Zuid,5400,125 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a84db78e/nicolaas-witsenkade,Apartment Nicolaas Witsenkade 19,1017 ZS Amsterdam ,De Weteringschans,7950,200 ,Unknown,6 ,1897
+https://www.pararius.com/apartment-for-rent/amsterdam/ac0d0989/singel,Apartment Singel 91 E,1012 VG Amsterdam ,Burgwallen-Nieuwe Zijde,2850,110 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/94a83463/wagenstraat,Apartment Wagenstraat,1017 CZ Amsterdam ,Grachtengordel-Zuid,3100,90 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/de86fcb8/laan-der-hesperiden,Apartment Laan der Hesperiden 16 H,1076 DK Amsterdam ,Stadionbuurt,3250,127 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cb7d39c7/oudeschans,Apartment Oudeschans 18 III,1011 LA Amsterdam ,Nieuwmarkt/Lastage,3500,100 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/53b4bcc9/leonardostraat,Apartment Leonardostraat 6 I,1077 EV Amsterdam ,Apollobuurt,4300,185 ,Upholstered,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/27400da1/dam,Apartment Dam,1012 JS Amsterdam ,Burgwallen-Oude Zijde,5500,125 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d1e66cb9/koningin-wilhelminaplein,Apartment Koningin Wilhelminaplein,1062 KS Amsterdam ,Westlandgracht,2250,90 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/25dd8972/nieuwe-prinsengracht,Apartment Nieuwe Prinsengracht,1018 VT Amsterdam ,Weesperbuurt/Plantage,2300,75 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2b8657b4/evertsweertplantsoen,Apartment Evertsweertplantsoen 22,1069 RL Amsterdam ,Osdorp-Midden,1849,60 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e9c6ee13/keizersstraat,Apartment Keizersstraat,1011 GD Amsterdam ,Nieuwmarkt/Lastage,2500,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fb097267/brouwersgracht,Apartment Brouwersgracht 180 A,1013 HC Amsterdam ,Haarlemmerbuurt,6500,200 ,Furnished,4 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/6f91bf33/prinsengracht,House Prinsengracht 264,1016 HH Amsterdam ,Jordaan,9500,240 ,Unknown,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/65099420/willemsparkweg,Apartment Willemsparkweg,1071 GN Amsterdam ,Museumkwartier,4950,185 ,Upholstered,6 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/4c1a8402/moestuinlaan,House Moestuinlaan,1036 KD Amsterdam ,Tuindorp Oostzaan,4500,200 ,Upholstered or furnished,10 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/41c4d3fc/van-breestraat,Apartment Van Breestraat 90 II,1071 ZS Amsterdam ,Museumkwartier,4250,122 ,Upholstered,7 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6c424ce9/esplanade-de-meer,Apartment Esplanade de Meer,1098 WN Amsterdam ,Middenmeer,2500,96 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1cb34bf2/ndsm-kade,Apartment NDSM-kade,1033 PG Amsterdam ,Noordelijke IJ-oevers West,1694,89 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/83aa1b10/ndsm-kade,Apartment NDSM-kade,1033 PG Amsterdam ,Noordelijke IJ-oevers West,1568,64 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b10dbe3c/ndsm-kade,Apartment NDSM-kade,1033 PG Amsterdam ,Noordelijke IJ-oevers West,1460,63 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c4c0fce4/ndsm-kade,Apartment NDSM-kade,1033 PG Amsterdam ,Noordelijke IJ-oevers West,1487,71 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cc193b6a/lijnbaansgracht,Apartment Lijnbaansgracht,1016 VX Amsterdam ,Jordaan,7500,178 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/c4f5784b/keizersgracht,Apartment Keizersgracht 385 B,1016 EJ Amsterdam ,Grachtengordel-West,9750,300 ,Upholstered or furnished,5 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/7488ed77/wibautstraat,Studio Wibautstraat 150,1091 GR Amsterdam ,Weesperzijde,3250,40 ,Furnished,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4982ff93/kalverstraat,Apartment Kalverstraat,1012 PH Amsterdam ,Burgwallen-Nieuwe Zijde,2750,110 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b6921db8/bos-en-lommerplantsoen,Apartment Bos en Lommerplantsoen,1055 AA Amsterdam ,De Kolenkit,4500,50 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bf4f3b4d/albert-cuypstraat,Apartment Albert Cuypstraat 143 3,1072 CS Amsterdam ,Oude Pijp,2900,53 ,Furnished,2 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/721dfe13/singel,House Singel,1012 VD Amsterdam ,Burgwallen-Nieuwe Zijde,5500,320 ,Upholstered,6 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/a74d70c1/august-allebeplein,Studio August Allebéplein,1062 AC Amsterdam ,Overtoomse Veld,673,30 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2808b10c/prinsengracht,Apartment Prinsengracht,1016 GV Amsterdam ,Grachtengordel-West,4900,100 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2d8cb323/ndsm-kade,Apartment NDSM-kade,1033 PG Amsterdam ,Noordelijke IJ-oevers West,2654,129 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d3b155c2/stromarkt,Apartment Stromarkt,1012 SW Amsterdam ,Burgwallen-Nieuwe Zijde,2350,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5341258c/john-blankensteinstraat,Apartment John Blankensteinstraat,1095 MB Amsterdam ,Zeeburgereiland/Nieuwe Diep,3400,105 ,Upholstered,5 ,Unknown
+https://www.pararius.com/studio-for-rent/amsterdam/d886ac17/elizabeth-cady-stantonplein,Studio Elizabeth Cady Stantonplein,1102 BL Amsterdam ,Bijlmer Centrum,655,30 ,Upholstered,1 room,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/aeba7620/tasmanstraat,Apartment Tasmanstraat 3,1013 PW Amsterdam ,Houthavens,2150,100 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2ee5b41e/koningin-wilhelminaplein,Apartment Koningin Wilhelminaplein,1062 KS Amsterdam ,Westlandgracht,2250,90 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/108f1768/ijdok,Apartment IJdok,1013 MM Amsterdam ,Haarlemmerbuurt,2550,55 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1a247f14/amstelveenseweg,Apartment Amstelveenseweg,1075 XL Amsterdam ,Schinkelbuurt,2450,70 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3b70ead8/bezaanjachtplein,Apartment Bezaanjachtplein 17,1034 CR Amsterdam ,Banne Buiksloot,1475,59 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/515f4ca3/hoofdweg,Apartment Hoofdweg 336 1,1056 DB Amsterdam ,Van Galenbuurt,1700,58 ,Unknown,2 ,1927
+https://www.pararius.com/apartment-for-rent/amsterdam/274acef2/van-baerlestraat,Apartment Van Baerlestraat,1071 AS Amsterdam ,Museumkwartier,2250,80 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/7f6cf67f/osdorpplein,Apartment Osdorpplein,1068 TB Amsterdam ,Osdorp-Oost,1750,71 ,Unknown,3 ,2021
+https://www.pararius.com/apartment-for-rent/amsterdam/f6a34788/bos-en-lommerplantsoen,Apartment Bos en Lommerplantsoen,1055 AA Amsterdam ,De Kolenkit,1100,31 ,Unknown,1 room,2011
+https://www.pararius.com/apartment-for-rent/amsterdam/71caf7e2/biesboschstraat,Apartment Biesboschstraat,1078 MP Amsterdam ,Scheldebuurt,2500,105 ,Unknown,5 ,1930
+https://www.pararius.com/apartment-for-rent/amsterdam/aad98d72/saenredamstraat,Apartment Saenredamstraat 3 III,1072 CA Amsterdam ,Oude Pijp,2000,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fd733d19/tuinstraat,Apartment Tuinstraat,1015 PD Amsterdam ,Jordaan,1800,57 ,Unknown,2 ,1987
+https://www.pararius.com/apartment-for-rent/amsterdam/e710b87a/keizersgracht,Apartment Keizersgracht 120 D,1015 CW Amsterdam ,Grachtengordel-West,2250,85 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a46607a6/chestertonlaan,Apartment Chestertonlaan,1102 ZC Amsterdam ,Bijlmer Centrum,1450,50 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5096e064/hugo-de-grootkade,Apartment Hugo de Grootkade 4 4,1052 LP Amsterdam ,Frederik Hendrikbuurt,1500,46 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ff093a31/de-lairessestraat,Apartment De Lairessestraat,1071 PK Amsterdam ,Museumkwartier,1925,70 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/15120a15/ruys-de-beerenbrouckstraat,Apartment Ruys de Beerenbrouckstraat 97,1067 BN Amsterdam ,Geuzenveld,1350,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1332ab83/admiraal-de-ruijterweg,Apartment Admiraal De Ruijterweg 350 A4,1055 NA Amsterdam ,Landlust,1950,65 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1adac72e/admiraal-de-ruijterweg,Apartment Admiraal De Ruijterweg 350 A3,1055 NA Amsterdam ,Landlust,2150,75 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/69975d60/lucellestraat,Apartment Lucellestraat 33 3,1055 HV Amsterdam ,Landlust,1700,56 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/35e45847/henrick-de-keijserplein,Apartment Henrick de Keijserplein,1073 SW Amsterdam ,Zuid Pijp,1900,70 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d86b855f/rozenstraat,Apartment Rozenstraat 37 2,1016 NM Amsterdam ,Jordaan,1500,50 ,Unknown,2 ,1931-1944
+https://www.pararius.com/apartment-for-rent/amsterdam/f7169d01/pastelstraat,Apartment Pastelstraat 6,1073 HS Amsterdam ,Zuid Pijp,1750,60 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/f32bc2cb/lijnbaansgracht,Apartment Lijnbaansgracht 305 A,1017 RN Amsterdam ,De Weteringschans,1950,65 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/dd4979df/javastraat,Apartment Javastraat 151 1,1094 HE Amsterdam ,Indische Buurt West,1300,50 ,Unknown,2 ,1906-1930
+https://www.pararius.com/apartment-for-rent/amsterdam/7a9f3d91/korte-leidsedwarsstraat,Apartment Korte Leidsedwarsstraat 68 A,1017 RD Amsterdam ,De Weteringschans,1950,65 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/306d7b50/derde-helmersstraat,Apartment Derde Helmersstraat 62 1,1054 BK Amsterdam ,Helmersbuurt,1950,63 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e98e3cce/schierstins,Apartment Schierstins 16,1082 TH Amsterdam ,Buitenveldert-West,2000,66 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/51fbe4e6/valeriusstraat,Apartment Valeriusstraat 6 II,1071 MH Amsterdam ,Museumkwartier,1950,76 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9267676e/zeeburgerdijk,Apartment Zeeburgerdijk 37 1,1093 SL Amsterdam ,Dapperbuurt,2000,65 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/013d59c6/prinsenstraat,Apartment Prinsenstraat 27 1,1015 DB Amsterdam ,Grachtengordel-West,1650,45 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/64128d65/krooswijkhof,Apartment Krooswijkhof 8,1083 JA Amsterdam ,Buitenveldert-Oost,1650,80 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0a43d4d2/pieter-jacobszstraat,Apartment Pieter Jacobszstraat 8 B.,1012 HL Amsterdam ,Burgwallen-Oude Zijde,1900,76 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cd47ea50/leidsestraat,Apartment Leidsestraat 78 1,1017 PD Amsterdam ,Grachtengordel-Zuid,1900,70 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e04b6d02/sarphatipark,Apartment Sarphatipark 133 2,1073 CX Amsterdam ,Oude Pijp,1850,70 ,Unknown,3 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/15b910ea/lijnbaansgracht,Apartment Lijnbaansgracht 252 1,1017 RK Amsterdam ,De Weteringschans,2500,85 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/99acce9d/eerste-kostverlorenkade,Apartment Eerste Kostverlorenkade 13 1,1052 EM Amsterdam ,Frederik Hendrikbuurt,1850,54 ,Upholstered or furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a116f937/ijplein,Apartment IJplein 231,1021 LH Amsterdam ,IJplein/Vogelbuurt,1850,80 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/5082c0d1/valkenburgerstraat,Apartment Valkenburgerstraat 30 F,1011 LZ Amsterdam ,Nieuwmarkt/Lastage,2250,100 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/302e5308/transvaalstraat,Apartment Transvaalstraat,1092 HM Amsterdam ,Transvaalbuurt,1850,64 ,Unknown,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4cb089cc/van-oldenbarneveldtstraat,Apartment Van Oldenbarneveldtstraat,1052 KC Amsterdam ,Frederik Hendrikbuurt,2400,102 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d0207fed/rosy-wertheimstraat,Apartment Rosy Wertheimstraat,1082 MZ Amsterdam ,Zuidas,1750,45 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/283bc054/gerrit-van-der-veenstraat,Apartment Gerrit van der Veenstraat,1077 EC Amsterdam ,Apollobuurt,2750,115 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6b114582/elandsstraat,Apartment Elandsstraat 24,1016 SG Amsterdam ,Jordaan,1750,55 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d80efa9f/olympiaweg,Apartment Olympiaweg,1076 XA Amsterdam ,Stadionbuurt,1650,43 ,Unknown,2 ,1925
+https://www.pararius.com/apartment-for-rent/amsterdam/7bd2df08/keizersgracht,Apartment Keizersgracht 335 II,1016 EG Amsterdam ,Grachtengordel-West,1950,60 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cfd1eec3/van-spilbergenstraat,Apartment Van Spilbergenstraat,1057 RP Amsterdam ,Hoofdweg e.o.,1550,50 ,Unknown,4 ,1906-1930
+https://www.pararius.com/apartment-for-rent/amsterdam/74d9d411/van-spilbergenstraat,Apartment Van Spilbergenstraat,1057 RN Amsterdam ,Hoofdweg e.o.,1795,57 ,Unknown,3 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/c488be5f/waterkersweg,Apartment Waterkersweg 262,1051 PJ Amsterdam ,Centrale Markt,2100,85 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e5393e9f/hugo-de-grootkade,Apartment Hugo de Grootkade 4 1,1052 LP Amsterdam ,Frederik Hendrikbuurt,1700,52 ,Upholstered,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/443e09e1/jan-vrijmanstraat,Apartment Jan Vrijmanstraat,1087 NB Amsterdam ,IJburg Zuid,1428,116 ,Unknown,3 ,2010
+https://www.pararius.com/apartment-for-rent/amsterdam/c2fb30a7/vossiusstraat,Apartment Vossiusstraat 7 H,1071 AB Amsterdam ,Museumkwartier,2850,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fe49b1a4/herengracht,Apartment Herengracht 445 A,1017 BR Amsterdam ,Grachtengordel-Zuid,2450,105 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/192b8286/kerkstraat,Apartment Kerkstraat 322 N,1017 HC Amsterdam ,Grachtengordel-Zuid,2750,95 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/b256a1ac/weesperzijde,Apartment Weesperzijde 21 III,1091 EC Amsterdam ,Weesperzijde,2350,60 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/679ca7a4/nida-senffstraat,Apartment Nida Senffstraat,1095 MX Amsterdam ,Zeeburgereiland/Nieuwe Diep,1950,70 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9b0230a6/wiltzanghlaan,Apartment Wiltzanghlaan 1 D,1055 KD Amsterdam ,Landlust,2150,75 ,Furnished,3 ,Unknown
+https://www.pararius.com/house-for-rent/amsterdam/10864bd1/akbarstraat,House Akbarstraat 59,1061 DW Amsterdam ,De Kolenkit,2500,135 ,Upholstered,6 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/a7933ec4/nieuwendijk,Apartment Nieuwendijk,1012 MD Amsterdam ,Burgwallen-Nieuwe Zijde,1400,40 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/3de2578f/bilderdijkkade,Apartment Bilderdijkkade 24 AH,1053 VC Amsterdam ,Kinkerbuurt,1600,70 ,Unknown,2 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/13b6d104/van-hogendorpstraat,Apartment Van Hogendorpstraat 62 3,1051 BS Amsterdam ,Staatsliedenbuurt,1850,51 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6a8ed67c/govert-flinckstraat,Apartment Govert Flinckstraat 283 II+III,1073 CA Amsterdam ,Oude Pijp,2650,103 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ffc282d8/nassaukade,Apartment Nassaukade 111 II,1052 EA Amsterdam ,Frederik Hendrikbuurt,3500,130 ,Upholstered or furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ca5064a7/cruquiusweg,Apartment Cruquiusweg,1019 AG Amsterdam ,Oostelijk Havengebied,3000,105 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ba3b2b9c/henrick-de-keijserplein,Apartment Henrick de Keijserplein 16,1073 SX Amsterdam ,Zuid Pijp,1750,56 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/9352df89/amstelkade,Apartment Amstelkade,1078 BA Amsterdam ,Scheldebuurt,2700,104 ,Unknown,4 ,1929
+https://www.pararius.com/apartment-for-rent/amsterdam/215991ea/keizersgracht,Apartment Keizersgracht 138 B,1015 CW Amsterdam ,Grachtengordel-West,2450,75 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1442ba28/valeriusstraat,Apartment Valeriusstraat 245 2,1075 GB Amsterdam ,Willemspark,2500,64 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6141cf94/juliana-van-stolbergstraat,Apartment Juliana van Stolbergstraat,1055 RM Amsterdam ,Landlust,1750,52 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/e2b33444/amstelveenseweg,Apartment Amstelveenseweg,1081 JN Amsterdam ,Buitenveldert-West,3000,99 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/737c6055/johannes-verhulststraat,Apartment Johannes Verhulststraat 157 3,1075 GW Amsterdam ,Willemspark,5500,168 ,Furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/d51615cb/rustenburgerstraat,Apartment Rustenburgerstraat 133 III,1073 EX Amsterdam ,Nieuwe Pijp,1850,46 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ed919c45/koninginneweg,Apartment Koninginneweg 143 bov,1075 CM Amsterdam ,Willemspark,3650,138 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/bb2f7063/agatha-dekenstraat,Apartment Agatha Dekenstraat 61 IV,1053 AN Amsterdam ,Kinkerbuurt,2500,56 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2a79de36/holbeinstraat,Apartment Holbeinstraat 57 1,1077 VC Amsterdam ,Apollobuurt,2750,113 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/1ee362b8/bloemgracht,Apartment Bloemgracht,1016 KP Amsterdam ,Jordaan,2250,67 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/91897047/prins-hendrikkade,Apartment Prins Hendrikkade,1011 AR Amsterdam ,Nieuwmarkt/Lastage,1650,80 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/357b1a0f/prinsengracht,Apartment Prinsengracht 475 I,1016 HP Amsterdam ,Grachtengordel-West,2750,80 ,Upholstered or furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ff1460dc/haarlemmerdijk,Apartment Haarlemmerdijk 100 D,1013 JG Amsterdam ,Haarlemmerbuurt,2500,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2dc21dfc/derde-helmersstraat,Apartment Derde Helmersstraat 41 A,1054 BB Amsterdam ,Helmersbuurt,2350,65 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/cc568b13/sint-willibrordusstraat,Apartment Sint Willibrordusstraat 109 A,1073 VB Amsterdam ,Nieuwe Pijp,2900,100 ,Upholstered,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/fd510188/eerste-helmersstraat,Apartment Eerste Helmersstraat 41 3,1054 DA Amsterdam ,Helmersbuurt,2450,100 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/2904a393/stuyvesantstraat,Apartment Stuyvesantstraat 49 H,1058 AK Amsterdam ,Westindische Buurt,2350,73 ,Furnished,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0a04ce9b/vondelstraat,Apartment Vondelstraat,1054 GE Amsterdam ,Vondelbuurt,2850,125 ,Unknown,3 ,1870
+https://www.pararius.com/apartment-for-rent/amsterdam/6faf75a1/nieuwezijds-voorburgwal,Apartment Nieuwezijds Voorburgwal,1012 RZ Amsterdam ,Burgwallen-Nieuwe Zijde,3000,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/ff47673b/nieuwezijds-voorburgwal,Apartment Nieuwezijds Voorburgwal 18 B,1012 RZ Amsterdam ,Burgwallen-Nieuwe Zijde,3000,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/29e8b521/nieuwezijds-voorburgwal,Apartment Nieuwezijds Voorburgwal 18 D,1012 RZ Amsterdam ,Burgwallen-Nieuwe Zijde,3250,100 ,Furnished,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/38c5a4be/bellamystraat,Apartment Bellamystraat,1053 BG Amsterdam ,Kinkerbuurt,3950,100 ,Unknown,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/728b6f84/ceintuurbaan,Apartment Ceintuurbaan,1074 CZ Amsterdam ,Oude Pijp,3250,178 ,Unknown,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/8fee7d69/van-tuyll-van-serooskerkenweg,Apartment Van Tuyll van Serooskerkenweg 110 3,1076 JR Amsterdam ,Stadionbuurt,3500,125 ,Furnished,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/0c842602/sarphatipark,Apartment Sarphatipark,1073 CZ Amsterdam ,Nieuwe Pijp,2750,88 ,Upholstered,3 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/262cb71c/tommaso-albinonistraat,Apartment Tommaso Albinonistraat 166,1083 HM Amsterdam ,Zuidas,4500,197 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/55d07e54/bestevaerstraat,Apartment Bestevâerstraat,1055 TL Amsterdam ,Landlust,1750,71 ,Unknown,2 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/4dcf1277/koninginneweg,Apartment Koninginneweg 40 C,1075 CZ Amsterdam ,Willemspark,6500,180 ,Unknown,6 ,1914
+https://www.pararius.com/apartment-for-rent/amsterdam/ebf1d552/herengracht,Apartment Herengracht 132 C,1015 BV Amsterdam ,Grachtengordel-West,10500,190 ,Upholstered or furnished,4 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/6e2bd87c/bloemgracht,Apartment Bloemgracht 164,1015 TT Amsterdam ,Jordaan,6000,195 ,Unknown,6 ,Before 1906
+https://www.pararius.com/apartment-for-rent/amsterdam/7b8cd882/valeriusstraat,Apartment Valeriusstraat 24 hs,1071 MJ Amsterdam ,Museumkwartier,4500,148 ,Upholstered,5 ,Unknown
+https://www.pararius.com/apartment-for-rent/amsterdam/03db3967/plantage-kerklaan,Apartment Plantage Kerklaan 1 B,1018 SX Amsterdam ,Weesperbuurt/Plantage,2750,90 ,Unknown,3 ,Before 1906

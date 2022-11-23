@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_36c91efc424e59edbf5ab164299b6d21 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_36c91efc424e59edbf5ab164299b6d21" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_36c91efc424e59edbf5ab164299b6d21 = L.map(
+                "map_36c91efc424e59edbf5ab164299b6d21",
+                {
+                    center: [52.370216, 4.895168],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b288565b21978f6a7c122fc3364f8a1e = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+            var circle_marker_2272cbfd3ecfa6e787ad0aea9d0da8ce = L.circleMarker(
+                [52.35549655, 4.895019090411445],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 22, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_839901988d6e237b711b701b2c2165cf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_08ce01c0eb7277bdc5dde28c431864ad = $(`<div id="html_08ce01c0eb7277bdc5dde28c431864ad" style="width: 100.0%; height: 100.0%;">Oude Pijp, 36.19€/m², 2.59 rooms, 22 apartments</div>`)[0];
+                popup_839901988d6e237b711b701b2c2165cf.setContent(html_08ce01c0eb7277bdc5dde28c431864ad);
+            
+        
+
+        circle_marker_2272cbfd3ecfa6e787ad0aea9d0da8ce.bindPopup(popup_839901988d6e237b711b701b2c2165cf)
+        ;
+
+        
+    
+    
+            var circle_marker_5f5572f08cafa89ce134801fa326f84a = L.circleMarker(
+                [52.35394785, 4.911977761220475],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 12, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_9cee913d007e98f5cb9f9175f98e41f2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1d4cb485b24dbc4ef2e27a47b195fdb5 = $(`<div id="html_1d4cb485b24dbc4ef2e27a47b195fdb5" style="width: 100.0%; height: 100.0%;">Weesperzijde, 35.31€/m², 2.75 rooms, 12 apartments</div>`)[0];
+                popup_9cee913d007e98f5cb9f9175f98e41f2.setContent(html_1d4cb485b24dbc4ef2e27a47b195fdb5);
+            
+        
+
+        circle_marker_5f5572f08cafa89ce134801fa326f84a.bindPopup(popup_9cee913d007e98f5cb9f9175f98e41f2)
+        ;
+
+        
+    
+    
+            var circle_marker_f42e2f6f65e23da41255d59e74dedc6b = L.circleMarker(
+                [52.34057, 4.923404],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_3c66b0487c9faa72e8a18def59a546cb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ed5da9a63a73ae648cb5806b477e8c4b = $(`<div id="html_ed5da9a63a73ae648cb5806b477e8c4b" style="width: 100.0%; height: 100.0%;">Omval/Overamstel, 35.12€/m², 2.56 rooms, 9 apartments</div>`)[0];
+                popup_3c66b0487c9faa72e8a18def59a546cb.setContent(html_ed5da9a63a73ae648cb5806b477e8c4b);
+            
+        
+
+        circle_marker_f42e2f6f65e23da41255d59e74dedc6b.bindPopup(popup_3c66b0487c9faa72e8a18def59a546cb)
+        ;
+
+        
+    
+    
+            var circle_marker_cd24b75c9d7971d9472603038edcf2e1 = L.circleMarker(
+                [52.389361550000004, 4.911522906604832],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 9, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_6e1186c0ae5b62605bae9511147282c9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7f941781ed922c6b7dd2b070f505da06 = $(`<div id="html_7f941781ed922c6b7dd2b070f505da06" style="width: 100.0%; height: 100.0%;">Volewijck, 34.44€/m², 3.78 rooms, 9 apartments</div>`)[0];
+                popup_6e1186c0ae5b62605bae9511147282c9.setContent(html_7f941781ed922c6b7dd2b070f505da06);
+            
+        
+
+        circle_marker_cd24b75c9d7971d9472603038edcf2e1.bindPopup(popup_6e1186c0ae5b62605bae9511147282c9)
+        ;
+
+        
+    
+    
+            var circle_marker_f9929c9795550a917985560ad4c9ae96 = L.circleMarker(
+                [52.340905, 4.824491],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_318287013d4edbf4cd8d3bba6cba1fab = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_beac873782953648c28a01e903f9c286 = $(`<div id="html_beac873782953648c28a01e903f9c286" style="width: 100.0%; height: 100.0%;">Sloter-/Riekerpolder, 49.12€/m², 2.2 rooms, 5 apartments</div>`)[0];
+                popup_318287013d4edbf4cd8d3bba6cba1fab.setContent(html_beac873782953648c28a01e903f9c286);
+            
+        
+
+        circle_marker_f9929c9795550a917985560ad4c9ae96.bindPopup(popup_318287013d4edbf4cd8d3bba6cba1fab)
+        ;
+
+        
+    
+    
+            var circle_marker_89ac05cf190249d5d4eca1dd88f62532 = L.circleMarker(
+                [52.37403, 4.88969],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_7a6b924c4890e739ce67aade8032ee34 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_248ad2cee9959c746e011d1abe3ea5fa = $(`<div id="html_248ad2cee9959c746e011d1abe3ea5fa" style="width: 100.0%; height: 100.0%;">Geuzenbuurt, 39.18€/m², 2.4 rooms, 5 apartments</div>`)[0];
+                popup_7a6b924c4890e739ce67aade8032ee34.setContent(html_248ad2cee9959c746e011d1abe3ea5fa);
+            
+        
+
+        circle_marker_89ac05cf190249d5d4eca1dd88f62532.bindPopup(popup_7a6b924c4890e739ce67aade8032ee34)
+        ;
+
+        
+    
+    
+            var circle_marker_1a2c9174f0fa5126ee0ac53f4937d1ec = L.circleMarker(
+                [52.35946775, 4.860688749273366],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_cfc98667a0ddad40948e24333bfb15ea = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f1571568a052e7608702b241d91baf61 = $(`<div id="html_f1571568a052e7608702b241d91baf61" style="width: 100.0%; height: 100.0%;">Overtoomse Sluis, 36.1€/m², 3.6 rooms, 5 apartments</div>`)[0];
+                popup_cfc98667a0ddad40948e24333bfb15ea.setContent(html_f1571568a052e7608702b241d91baf61);
+            
+        
+
+        circle_marker_1a2c9174f0fa5126ee0ac53f4937d1ec.bindPopup(popup_cfc98667a0ddad40948e24333bfb15ea)
+        ;
+
+        
+    
+    
+            var circle_marker_f5542ba1d7e696479c279e275a1ec974 = L.circleMarker(
+                [52.3668678, 4.8706191],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_3865bc2608c5f0ea28055a856b5211c3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fa7a867d7c1de6e5d6db8b19ec862588 = $(`<div id="html_fa7a867d7c1de6e5d6db8b19ec862588" style="width: 100.0%; height: 100.0%;">Kinkerbuurt, 42.5€/m², 2.0 rooms, 2 apartments</div>`)[0];
+                popup_3865bc2608c5f0ea28055a856b5211c3.setContent(html_fa7a867d7c1de6e5d6db8b19ec862588);
+            
+        
+
+        circle_marker_f5542ba1d7e696479c279e275a1ec974.bindPopup(popup_3865bc2608c5f0ea28055a856b5211c3)
+        ;
+
+        
+    
+    
+            var circle_marker_23b4d42cae2a62d12aaf737c167029c4 = L.circleMarker(
+                [52.377635549999994, 4.842780933913047],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 2, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_db2e4541f3af46da1efd3fbeb165481e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7d45a65898fdef6c08c514bbe025eb95 = $(`<div id="html_7d45a65898fdef6c08c514bbe025eb95" style="width: 100.0%; height: 100.0%;">De Kolenkit, 41.58€/m², 3.5 rooms, 2 apartments</div>`)[0];
+                popup_db2e4541f3af46da1efd3fbeb165481e.setContent(html_7d45a65898fdef6c08c514bbe025eb95);
+            
+        
+
+        circle_marker_23b4d42cae2a62d12aaf737c167029c4.bindPopup(popup_db2e4541f3af46da1efd3fbeb165481e)
+        ;
+
+        
+    
+    
+            var circle_marker_852e2d8b9c83ec4350f6290126a4897d = L.circleMarker(
+                [52.38932, 4.87191],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 1, "stroke": true, "weight": 3}
+            ).addTo(map_36c91efc424e59edbf5ab164299b6d21);
+        
+    
+        var popup_936800e634f06ca4df244edc41a84381 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d052fb07ca69b0f4eb03c449281f737c = $(`<div id="html_d052fb07ca69b0f4eb03c449281f737c" style="width: 100.0%; height: 100.0%;">Spaarndammer- en Zeeheldenbuurt, 35.56€/m², 2.0 rooms, 1 apartments</div>`)[0];
+                popup_936800e634f06ca4df244edc41a84381.setContent(html_d052fb07ca69b0f4eb03c449281f737c);
+            
+        
+
+        circle_marker_852e2d8b9c83ec4350f6290126a4897d.bindPopup(popup_936800e634f06ca4df244edc41a84381)
+        ;
+
+        
+    
+</script>
+</html>

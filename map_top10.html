@@ -1,0 +1,488 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.6.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_a66ee9f2de5e877487d4f09bae218973 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_a66ee9f2de5e877487d4f09bae218973" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_a66ee9f2de5e877487d4f09bae218973 = L.map(
+                "map_a66ee9f2de5e877487d4f09bae218973",
+                {
+                    center: [52.370216, 4.895168],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 12,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_725ba246b8b06d14faf1d6cdefa8323e = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+            var circle_marker_8df491c534cc12027798674eb5191a0f = L.circleMarker(
+                [52.355760950000004, 4.876834631189791],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_4bbd14060eed7b18d3b1619fb0aa2c9c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b3e5aed22025514b84f8ec582b86e373 = $(`<div id="html_b3e5aed22025514b84f8ec582b86e373" style="width: 100.0%; height: 100.0%;">Museumkwartier, 4918.33€/month, 34.44€/m², 146.44m², 3.78 rooms</div>`)[0];
+                popup_4bbd14060eed7b18d3b1619fb0aa2c9c.setContent(html_b3e5aed22025514b84f8ec582b86e373);
+            
+        
+
+        circle_marker_8df491c534cc12027798674eb5191a0f.bindPopup(popup_4bbd14060eed7b18d3b1619fb0aa2c9c)
+        ;
+
+        
+    
+    
+            var circle_marker_c7781ee3876f93a3ddda8cc445ebf917 = L.circleMarker(
+                [52.365441, 4.892657],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_b3a6bdfeecf32ec48347b264dbeb9a60 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_43c7a7566a85bdca6e1a53c3ad629b03 = $(`<div id="html_43c7a7566a85bdca6e1a53c3ad629b03" style="width: 100.0%; height: 100.0%;">Grachtengordel-Zuid, 4409.67€/month, 33.0€/m², 133.17m², 3.5 rooms</div>`)[0];
+                popup_b3a6bdfeecf32ec48347b264dbeb9a60.setContent(html_43c7a7566a85bdca6e1a53c3ad629b03);
+            
+        
+
+        circle_marker_c7781ee3876f93a3ddda8cc445ebf917.bindPopup(popup_b3a6bdfeecf32ec48347b264dbeb9a60)
+        ;
+
+        
+    
+    
+            var circle_marker_8608effb8d0a25674277fa5c71e413ab = L.circleMarker(
+                [52.3570246, 4.8745409],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_2e37585560b5345508406b4960b7e7ac = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1526bda15a7baeb2db803e35f02dead1 = $(`<div id="html_1526bda15a7baeb2db803e35f02dead1" style="width: 100.0%; height: 100.0%;">Willemspark, 4369.17€/month, 32.86€/m², 137.72m², 4.72 rooms</div>`)[0];
+                popup_2e37585560b5345508406b4960b7e7ac.setContent(html_1526bda15a7baeb2db803e35f02dead1);
+            
+        
+
+        circle_marker_8608effb8d0a25674277fa5c71e413ab.bindPopup(popup_2e37585560b5345508406b4960b7e7ac)
+        ;
+
+        
+    
+    
+            var circle_marker_cf0ff01132cda8d4e3650a05d4c2a611 = L.circleMarker(
+                [52.3317318, 4.9176266],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_e995095f96b25981373cd799927f9bd9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1db32fdcd38bd411330bd8bba3d61ee3 = $(`<div id="html_1db32fdcd38bd411330bd8bba3d61ee3" style="width: 100.0%; height: 100.0%;">Omval/Overamstel, 3672.06€/month, 31.44€/m², 119.29m², 3.69 rooms</div>`)[0];
+                popup_e995095f96b25981373cd799927f9bd9.setContent(html_1db32fdcd38bd411330bd8bba3d61ee3);
+            
+        
+
+        circle_marker_cf0ff01132cda8d4e3650a05d4c2a611.bindPopup(popup_e995095f96b25981373cd799927f9bd9)
+        ;
+
+        
+    
+    
+            var circle_marker_569d4aa63b311a506870a3cc1889e285 = L.circleMarker(
+                [52.382441299999996, 4.887193084850383],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_597c234e20028db7d24b32cf69088637 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_942b9ea74d565a4dbec773417a9b0e1c = $(`<div id="html_942b9ea74d565a4dbec773417a9b0e1c" style="width: 100.0%; height: 100.0%;">Haarlemmerbuurt, 3665.91€/month, 29.46€/m², 127.91m², 4.36 rooms</div>`)[0];
+                popup_597c234e20028db7d24b32cf69088637.setContent(html_942b9ea74d565a4dbec773417a9b0e1c);
+            
+        
+
+        circle_marker_569d4aa63b311a506870a3cc1889e285.bindPopup(popup_597c234e20028db7d24b32cf69088637)
+        ;
+
+        
+    
+    
+            var circle_marker_4367e67f265f9865836ba5e84eb256d7 = L.circleMarker(
+                [52.3377797, 4.8734447],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_f4a93e736750eb8a2bd28812ef8454f5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bd14269bb5cb74a40a40f97a4fb9fa36 = $(`<div id="html_bd14269bb5cb74a40a40f97a4fb9fa36" style="width: 100.0%; height: 100.0%;">Zuidas, 3595.0€/month, 29.95€/m², 122.8m², 3.4 rooms</div>`)[0];
+                popup_f4a93e736750eb8a2bd28812ef8454f5.setContent(html_bd14269bb5cb74a40a40f97a4fb9fa36);
+            
+        
+
+        circle_marker_4367e67f265f9865836ba5e84eb256d7.bindPopup(popup_f4a93e736750eb8a2bd28812ef8454f5)
+        ;
+
+        
+    
+    
+            var circle_marker_8a6cf6f0f6a18ad1937166b03cba514b = L.circleMarker(
+                [52.348072599999995, 4.875559011765657],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_44e85677b4bcb056476f185dcc29eb8b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b368f9f2e84eb2cd8662a3f3d685f35e = $(`<div id="html_b368f9f2e84eb2cd8662a3f3d685f35e" style="width: 100.0%; height: 100.0%;">Apollobuurt, 3395.5€/month, 20.16€/m², 166.33m², 4.17 rooms</div>`)[0];
+                popup_44e85677b4bcb056476f185dcc29eb8b.setContent(html_b368f9f2e84eb2cd8662a3f3d685f35e);
+            
+        
+
+        circle_marker_8a6cf6f0f6a18ad1937166b03cba514b.bindPopup(popup_44e85677b4bcb056476f185dcc29eb8b)
+        ;
+
+        
+    
+    
+            var circle_marker_0f4f5ac7538226afb104dcd95c9e2e2c = L.circleMarker(
+                [52.3729633, 4.8930009],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_deda90e626bf679dea6b84eb76dd7590 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_49ef28a049717d41902c8b014a148e92 = $(`<div id="html_49ef28a049717d41902c8b014a148e92" style="width: 100.0%; height: 100.0%;">Grachtengordel-West, 3294.08€/month, 32.71€/m², 107.11m², 3.18 rooms</div>`)[0];
+                popup_deda90e626bf679dea6b84eb76dd7590.setContent(html_49ef28a049717d41902c8b014a148e92);
+            
+        
+
+        circle_marker_0f4f5ac7538226afb104dcd95c9e2e2c.bindPopup(popup_deda90e626bf679dea6b84eb76dd7590)
+        ;
+
+        
+    
+    
+            var circle_marker_baa41d9ca4a28ae61ee23dfa69291e0f = L.circleMarker(
+                [52.3491305, 5.0066799],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_e20ed2e4dbe7d02100cace0e9962e978 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_55255bf4d7e1c57cb2106568fd694c6c = $(`<div id="html_55255bf4d7e1c57cb2106568fd694c6c" style="width: 100.0%; height: 100.0%;">IJburg Zuid, 3252.32€/month, 31.28€/m², 107.66m², 2.88 rooms</div>`)[0];
+                popup_e20ed2e4dbe7d02100cace0e9962e978.setContent(html_55255bf4d7e1c57cb2106568fd694c6c);
+            
+        
+
+        circle_marker_baa41d9ca4a28ae61ee23dfa69291e0f.bindPopup(popup_e20ed2e4dbe7d02100cace0e9962e978)
+        ;
+
+        
+    
+    
+            var circle_marker_4944090f72101e455f3ea4bed8a4ffd0 = L.circleMarker(
+                [52.3719455, 4.896102752948329],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_1655fc25cb9044450e9a96714468722d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9d6382bf36e66a07d7bc683e0ebe1df5 = $(`<div id="html_9d6382bf36e66a07d7bc683e0ebe1df5" style="width: 100.0%; height: 100.0%;">Burgwallen-Oude Zijde, 3196.43€/month, 33.0€/m², 101.79m², 3.29 rooms</div>`)[0];
+                popup_1655fc25cb9044450e9a96714468722d.setContent(html_9d6382bf36e66a07d7bc683e0ebe1df5);
+            
+        
+
+        circle_marker_4944090f72101e455f3ea4bed8a4ffd0.bindPopup(popup_1655fc25cb9044450e9a96714468722d)
+        ;
+
+        
+    
+    
+            var circle_marker_051c3412d0d179ce73a452414d9a732c = L.circleMarker(
+                [52.3155462, 4.9679324],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_cfb8aab23e75aa64c78004fe9c826ad2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b2d7fbb2f7a1c4ce8be997149ce87989 = $(`<div id="html_b2d7fbb2f7a1c4ce8be997149ce87989" style="width: 100.0%; height: 100.0%;">Bijlmer Centrum, 994.5€/month, 15.43€/m², 64.5m², 2.0 rooms</div>`)[0];
+                popup_cfb8aab23e75aa64c78004fe9c826ad2.setContent(html_b2d7fbb2f7a1c4ce8be997149ce87989);
+            
+        
+
+        circle_marker_051c3412d0d179ce73a452414d9a732c.bindPopup(popup_cfb8aab23e75aa64c78004fe9c826ad2)
+        ;
+
+        
+    
+    
+            var circle_marker_10be7e8897ab045fb8da06673f731ef3 = L.circleMarker(
+                [52.359326, 4.8077454],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_7c1ee44d25c18bed6d55f49f7bfcefb9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0d0e329b6278f2e7e444fcbdd30138ad = $(`<div id="html_0d0e329b6278f2e7e444fcbdd30138ad" style="width: 100.0%; height: 100.0%;">Osdorp-Oost, 1395.0€/month, 30.33€/m², 46.0m², 2.0 rooms</div>`)[0];
+                popup_7c1ee44d25c18bed6d55f49f7bfcefb9.setContent(html_0d0e329b6278f2e7e444fcbdd30138ad);
+            
+        
+
+        circle_marker_10be7e8897ab045fb8da06673f731ef3.bindPopup(popup_7c1ee44d25c18bed6d55f49f7bfcefb9)
+        ;
+
+        
+    
+    
+            var circle_marker_b066ef49fe40e369c9a48a7c7db92272 = L.circleMarker(
+                [52.40850545, 4.918843082544989],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_2ce3cc710005bd4f072be9b41baaa3a1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cff695f9c775a35d0913c2db81cce125 = $(`<div id="html_cff695f9c775a35d0913c2db81cce125" style="width: 100.0%; height: 100.0%;">Banne Buiksloot, 1542.5€/month, 23.65€/m², 68.33m², 2.67 rooms</div>`)[0];
+                popup_2ce3cc710005bd4f072be9b41baaa3a1.setContent(html_cff695f9c775a35d0913c2db81cce125);
+            
+        
+
+        circle_marker_b066ef49fe40e369c9a48a7c7db92272.bindPopup(popup_2ce3cc710005bd4f072be9b41baaa3a1)
+        ;
+
+        
+    
+    
+            var circle_marker_75201fae2d802b36a2bd48dc784a7209 = L.circleMarker(
+                [52.317979, 4.975497],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_2944a84ec35b360dcdfc90a5123d5854 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_87e15d71eae3a17ed8992bc21422b424 = $(`<div id="html_87e15d71eae3a17ed8992bc21422b424" style="width: 100.0%; height: 100.0%;">Bijlmer Oost, 1550.0€/month, 21.68€/m², 72.0m², 3.0 rooms</div>`)[0];
+                popup_2944a84ec35b360dcdfc90a5123d5854.setContent(html_87e15d71eae3a17ed8992bc21422b424);
+            
+        
+
+        circle_marker_75201fae2d802b36a2bd48dc784a7209.bindPopup(popup_2944a84ec35b360dcdfc90a5123d5854)
+        ;
+
+        
+    
+    
+            var circle_marker_06f3dfe3bc3f048ecc6deba08944fdbc = L.circleMarker(
+                [52.394726, 4.796555],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_9518b940c6d6007a77cf8954c11b9f32 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b0e95e3124557162d08b14a99b93ac57 = $(`<div id="html_b0e95e3124557162d08b14a99b93ac57" style="width: 100.0%; height: 100.0%;">Bedrijventerrein Sloterdijk, 1600.0€/month, 35.56€/m², 45.0m², 2.0 rooms</div>`)[0];
+                popup_9518b940c6d6007a77cf8954c11b9f32.setContent(html_b0e95e3124557162d08b14a99b93ac57);
+            
+        
+
+        circle_marker_06f3dfe3bc3f048ecc6deba08944fdbc.bindPopup(popup_9518b940c6d6007a77cf8954c11b9f32)
+        ;
+
+        
+    
+    
+            var circle_marker_0d4326758b89934b071298a186afb4ec = L.circleMarker(
+                [52.2972377, 4.9880906],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_84247b03a8c650986920883117bea00b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_64c53753088e268dc2c3ee98b9b806b1 = $(`<div id="html_64c53753088e268dc2c3ee98b9b806b1" style="width: 100.0%; height: 100.0%;">Gein, 1673.33€/month, 22.41€/m², 75.0m², 2.0 rooms</div>`)[0];
+                popup_84247b03a8c650986920883117bea00b.setContent(html_64c53753088e268dc2c3ee98b9b806b1);
+            
+        
+
+        circle_marker_0d4326758b89934b071298a186afb4ec.bindPopup(popup_84247b03a8c650986920883117bea00b)
+        ;
+
+        
+    
+    
+            var circle_marker_a22a736a2ee245c57172f48347d36922 = L.circleMarker(
+                [52.389625549316406, 4.87920618057251],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_ea933f7c60e424cec3243e0e1c320f92 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5e1dd6e263d6ac492c07818517d75eeb = $(`<div id="html_5e1dd6e263d6ac492c07818517d75eeb" style="width: 100.0%; height: 100.0%;">Spaarndammer- en Zeeheldenbuurt, 1698.75€/month, 23.2€/m², 74.25m², 2.75 rooms</div>`)[0];
+                popup_ea933f7c60e424cec3243e0e1c320f92.setContent(html_5e1dd6e263d6ac492c07818517d75eeb);
+            
+        
+
+        circle_marker_a22a736a2ee245c57172f48347d36922.bindPopup(popup_ea933f7c60e424cec3243e0e1c320f92)
+        ;
+
+        
+    
+    
+            var circle_marker_298a3fd91fd3bac9d136df1ee6f58853 = L.circleMarker(
+                [52.3994388, 4.9431351],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_3dbaf9fa00eeee2b3ccbed99c6255961 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_95360b938fc51d2039321b945d7b797b = $(`<div id="html_95360b938fc51d2039321b945d7b797b" style="width: 100.0%; height: 100.0%;">Buikslotermeer, 1715.0€/month, 28.08€/m², 65.0m², 2.8 rooms</div>`)[0];
+                popup_3dbaf9fa00eeee2b3ccbed99c6255961.setContent(html_95360b938fc51d2039321b945d7b797b);
+            
+        
+
+        circle_marker_298a3fd91fd3bac9d136df1ee6f58853.bindPopup(popup_3dbaf9fa00eeee2b3ccbed99c6255961)
+        ;
+
+        
+    
+    
+            var circle_marker_712d8a7b493f0faca2e688bdd269487d = L.circleMarker(
+                [52.3783939, 4.8016275],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_4cc3455b55679f76d83af2a8d2eda281 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1018182173e6f7bddec50d8710667d5b = $(`<div id="html_1018182173e6f7bddec50d8710667d5b" style="width: 100.0%; height: 100.0%;">Geuzenveld, 1756.25€/month, 24.1€/m², 74.25m², 2.5 rooms</div>`)[0];
+                popup_4cc3455b55679f76d83af2a8d2eda281.setContent(html_1018182173e6f7bddec50d8710667d5b);
+            
+        
+
+        circle_marker_712d8a7b493f0faca2e688bdd269487d.bindPopup(popup_4cc3455b55679f76d83af2a8d2eda281)
+        ;
+
+        
+    
+    
+            var circle_marker_ec1fc049ae4311a35995254b1e783f71 = L.circleMarker(
+                [52.39429355, 4.953580003162736],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#3186cc", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 5, "stroke": true, "weight": 3}
+            ).addTo(map_a66ee9f2de5e877487d4f09bae218973);
+        
+    
+        var popup_35cd5ea3701ac7a70107e555c7c3e8de = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2ae9d1c013e725a1554c8e8e44f09bbe = $(`<div id="html_2ae9d1c013e725a1554c8e8e44f09bbe" style="width: 100.0%; height: 100.0%;">Waterlandpleinbuurt, 1763.5€/month, 27.65€/m², 64.29m², 2.57 rooms</div>`)[0];
+                popup_35cd5ea3701ac7a70107e555c7c3e8de.setContent(html_2ae9d1c013e725a1554c8e8e44f09bbe);
+            
+        
+
+        circle_marker_ec1fc049ae4311a35995254b1e783f71.bindPopup(popup_35cd5ea3701ac7a70107e555c7c3e8de)
+        ;
+
+        
+    
+</script>
+</html>
